@@ -32,9 +32,9 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="var" path="JRE_LIB"/>
-	<classpathentry kind="lib" path="/Users/kusumas/Downloads/Software downloads/jdk-21_macos-x64_bin.dmg"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-21">
 		<attributes>
+			<attribute name="module" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
