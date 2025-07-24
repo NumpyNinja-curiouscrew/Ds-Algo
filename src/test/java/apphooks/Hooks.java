@@ -1,28 +1,33 @@
 package apphooks;
 
 import io.cucumber.java.After;
-import io.cucumber.java.Before;
 
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
+import io.cucumber.java.Before;
+import io.cucumber.java.Scenario;
+
+
+
+
 
 import driverfactory.DriverFactory;
 import utils.ConfigReader;
 
-	
 
-	public class Hooks {
+public class Hooks {
 
-	    @Before
-	    public void setup() {
-	    	String browser = ConfigReader.get("browser");
-	        DriverFactory.initDriver(browser);
-	    }
+    public static Scenario scenario; // Make Scenario accessible
 
-	    @After
-	    public void tearDown() {
-	        DriverFactory.quitDriver();
-	    }
-	}
+    @Before
+    public void setup(Scenario scenario) {
+        Hooks.scenario = scenario; // Store it in static variable for global use
+        String browser = ConfigReader.get("browser");
+        DriverFactory.initDriver(browser);
+    }
+
+    @After
+    public void tearDown() {
+        DriverFactory.quitDriver();
+    }
+}
 
 

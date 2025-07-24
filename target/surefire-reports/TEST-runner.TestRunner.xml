@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="runner.TestRunner" time="90.45" tests="30" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="runner.TestRunner" time="91.988" tests="30" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/Users/kusumas/eclipse-workspace/dsportal-automation/target/test-classes:/Users/kusumas/eclipse-workspace/dsportal-automation/target/classes:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-java/4.31.0/selenium-java-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-api/4.31.0/selenium-api-4.31.0.jar:/Users/kusumas/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.31.0/selenium-chrome-driver-4.31.0.jar:/Users/kusumas/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.31.0/selenium-chromium-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-json/4.31.0/selenium-json-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.31.0/selenium-manager-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v133/4.31.0/selenium-devtools-v133-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v134/4.31.0/selenium-devtools-v134-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v135/4.31.0/selenium-devtools-v135-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.31.0/selenium-edge-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.31.0/selenium-firefox-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-http/4.31.0/selenium-http-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.31.0/selenium-ie-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.31.0/selenium-remote-driver-4.31.0.jar:/Users/kusumas/.m2/repository/com/google/guava/guava/33.4.6-jre/guava-33.4.6-jre.jar:/Users/kusumas/.m2/repository/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar:/Users/kusumas/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/kusumas/.m2/repository/com/google/errorprone/error_prone_annotations/2.36.0/error_prone_annotations-2.36.0.jar:/Users/kusumas/.m2/repository/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-api/1.48.0/opentelemetry-api-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-context/1.48.0/opentelemetry-context-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.48.0/opentelemetry-exporter-logging-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.48.0/opentelemetry-sdk-common-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.48.0/opentelemetry-sdk-extension-autoconfigure-spi-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.48.0/opentelemetry-sdk-extension-autoconfigure-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.48.0/opentelemetry-sdk-trace-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.48.0/opentelemetry-sdk-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.48.0/opentelemetry-sdk-metrics-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.48.0/opentelemetry-sdk-logs-1.48.0.jar:/Users/kusumas/.m2/repository/net/bytebuddy/byte-buddy/1.17.5/byte-buddy-1.17.5.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-os/4.31.0/selenium-os-4.31.0.jar:/Users/kusumas/.m2/repository/org/apache/commons/commons-exec/1.4.0/commons-exec-1.4.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.31.0/selenium-safari-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-support/4.31.0/selenium-support-4.31.0.jar:/Users/kusumas/.m2/repository/org/testng/testng/7.10.1/testng-7.10.1.jar:/Users/kusumas/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/kusumas/.m2/repository/org/webjars/jquery/3.7.1/jquery-3.7.1.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-java/7.22.2/cucumber-java-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-core/7.22.2/cucumber-core-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-gherkin/7.22.2/cucumber-gherkin-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-gherkin-messages/7.22.2/cucumber-gherkin-messages-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/gherkin/32.1.1/gherkin-32.1.1.jar:/Users/kusumas/.m2/repository/io/cucumber/messages/27.2.0/messages-27.2.0.jar:/Users/kusumas/.m2/repository/io/cucumber/testng-xml-formatter/0.3.1/testng-xml-formatter-0.3.1.jar:/Users/kusumas/.m2/repository/io/cucumber/query/13.3.0/query-13.3.0.jar:/Users/kusumas/.m2/repository/io/cucumber/tag-expressions/6.1.2/tag-expressions-6.1.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-expressions/18.0.1/cucumber-expressions-18.0.1.jar:/Users/kusumas/.m2/repository/io/cucumber/datatable/7.22.2/datatable-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-plugin/7.22.2/cucumber-plugin-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/docstring/7.22.2/docstring-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/html-formatter/21.10.1/html-formatter-21.10.1.jar:/Users/kusumas/.m2/repository/io/cucumber/junit-xml-formatter/0.7.1/junit-xml-formatter-0.7.1.jar:/Users/kusumas/.m2/repository/io/cucumber/ci-environment/10.0.1/ci-environment-10.0.1.jar:/Users/kusumas/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-testng/7.22.2/cucumber-testng-7.22.2.jar:/Users/kusumas/.m2/repository/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar:/Users/kusumas/.m2/repository/ch/qos/logback/logback-classic/1.5.18/logback-classic-1.5.18.jar:/Users/kusumas/.m2/repository/ch/qos/logback/logback-core/1.5.18/logback-core-1.5.18.jar:/Users/kusumas/.m2/repository/org/apache/logging/log4j/log4j-core/2.24.3/log4j-core-2.24.3.jar:/Users/kusumas/.m2/repository/org/apache/logging/log4j/log4j-api/2.24.3/log4j-api-2.24.3.jar:"/>
+    <property name="java.class.path" value="/Users/kusumas/eclipse-workspace/dsportal-automation/target/test-classes:/Users/kusumas/eclipse-workspace/dsportal-automation/target/classes:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-java/4.31.0/selenium-java-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-api/4.31.0/selenium-api-4.31.0.jar:/Users/kusumas/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.31.0/selenium-chrome-driver-4.31.0.jar:/Users/kusumas/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.31.0/selenium-chromium-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-json/4.31.0/selenium-json-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.31.0/selenium-manager-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v133/4.31.0/selenium-devtools-v133-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v134/4.31.0/selenium-devtools-v134-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v135/4.31.0/selenium-devtools-v135-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.31.0/selenium-edge-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.31.0/selenium-firefox-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-http/4.31.0/selenium-http-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.31.0/selenium-ie-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.31.0/selenium-remote-driver-4.31.0.jar:/Users/kusumas/.m2/repository/com/google/guava/guava/33.4.6-jre/guava-33.4.6-jre.jar:/Users/kusumas/.m2/repository/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar:/Users/kusumas/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/kusumas/.m2/repository/com/google/errorprone/error_prone_annotations/2.36.0/error_prone_annotations-2.36.0.jar:/Users/kusumas/.m2/repository/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-api/1.48.0/opentelemetry-api-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-context/1.48.0/opentelemetry-context-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.48.0/opentelemetry-exporter-logging-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.48.0/opentelemetry-sdk-common-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.48.0/opentelemetry-sdk-extension-autoconfigure-spi-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.48.0/opentelemetry-sdk-extension-autoconfigure-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.48.0/opentelemetry-sdk-trace-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.48.0/opentelemetry-sdk-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.48.0/opentelemetry-sdk-metrics-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.48.0/opentelemetry-sdk-logs-1.48.0.jar:/Users/kusumas/.m2/repository/net/bytebuddy/byte-buddy/1.17.5/byte-buddy-1.17.5.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-os/4.31.0/selenium-os-4.31.0.jar:/Users/kusumas/.m2/repository/org/apache/commons/commons-exec/1.4.0/commons-exec-1.4.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.31.0/selenium-safari-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-support/4.31.0/selenium-support-4.31.0.jar:/Users/kusumas/.m2/repository/org/testng/testng/7.10.1/testng-7.10.1.jar:/Users/kusumas/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/kusumas/.m2/repository/org/webjars/jquery/3.7.1/jquery-3.7.1.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-java/7.22.2/cucumber-java-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-core/7.22.2/cucumber-core-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-gherkin/7.22.2/cucumber-gherkin-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-gherkin-messages/7.22.2/cucumber-gherkin-messages-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/gherkin/32.1.1/gherkin-32.1.1.jar:/Users/kusumas/.m2/repository/io/cucumber/messages/27.2.0/messages-27.2.0.jar:/Users/kusumas/.m2/repository/io/cucumber/testng-xml-formatter/0.3.1/testng-xml-formatter-0.3.1.jar:/Users/kusumas/.m2/repository/io/cucumber/query/13.5.0/query-13.5.0.jar:/Users/kusumas/.m2/repository/io/cucumber/tag-expressions/6.1.2/tag-expressions-6.1.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-expressions/18.0.1/cucumber-expressions-18.0.1.jar:/Users/kusumas/.m2/repository/io/cucumber/datatable/7.22.2/datatable-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-plugin/7.22.2/cucumber-plugin-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/docstring/7.22.2/docstring-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/html-formatter/21.10.1/html-formatter-21.10.1.jar:/Users/kusumas/.m2/repository/io/cucumber/junit-xml-formatter/0.7.1/junit-xml-formatter-0.7.1.jar:/Users/kusumas/.m2/repository/io/cucumber/ci-environment/10.0.1/ci-environment-10.0.1.jar:/Users/kusumas/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-testng/7.22.2/cucumber-testng-7.22.2.jar:/Users/kusumas/.m2/repository/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar:/Users/kusumas/.m2/repository/ch/qos/logback/logback-classic/1.5.18/logback-classic-1.5.18.jar:/Users/kusumas/.m2/repository/ch/qos/logback/logback-core/1.5.18/logback-core-1.5.18.jar:/Users/kusumas/.m2/repository/org/apache/poi/poi/5.4.1/poi-5.4.1.jar:/Users/kusumas/.m2/repository/commons-codec/commons-codec/1.18.0/commons-codec-1.18.0.jar:/Users/kusumas/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar:/Users/kusumas/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar:/Users/kusumas/.m2/repository/commons-io/commons-io/2.18.0/commons-io-2.18.0.jar:/Users/kusumas/.m2/repository/com/zaxxer/SparseBitSet/1.3/SparseBitSet-1.3.jar:/Users/kusumas/.m2/repository/org/apache/poi/poi-ooxml/5.4.1/poi-ooxml-5.4.1.jar:/Users/kusumas/.m2/repository/org/apache/poi/poi-ooxml-lite/5.4.1/poi-ooxml-lite-5.4.1.jar:/Users/kusumas/.m2/repository/org/apache/xmlbeans/xmlbeans/5.3.0/xmlbeans-5.3.0.jar:/Users/kusumas/.m2/repository/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar:/Users/kusumas/.m2/repository/org/apache/commons/commons-lang3/3.16.0/commons-lang3-3.16.0.jar:/Users/kusumas/.m2/repository/com/github/virtuald/curvesapi/1.08/curvesapi-1.08.jar:/Users/kusumas/.m2/repository/org/apache/logging/log4j/log4j-core/2.24.3/log4j-core-2.24.3.jar:/Users/kusumas/.m2/repository/org/apache/logging/log4j/log4j-api/2.24.3/log4j-api-2.24.3.jar:"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://java.oracle.com/"/>
@@ -13,10 +13,10 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/Users/kusumas/Library/Java/JavaVirtualMachines/openjdk-21.0.2/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/kusumas/eclipse-workspace/dsportal-automation/target/surefire/surefirebooter-20250617105844159_3.jar /Users/kusumas/eclipse-workspace/dsportal-automation/target/surefire 2025-06-17T10-58-44_088-jvmRun1 surefire-20250617105844159_1tmp surefire_0-20250617105844159_2tmp"/>
+    <property name="sun.java.command" value="/Users/kusumas/eclipse-workspace/dsportal-automation/target/surefire/surefirebooter-20250723162411702_3.jar /Users/kusumas/eclipse-workspace/dsportal-automation/target/surefire 2025-07-23T16-24-11_619-jvmRun1 surefire-20250723162411702_1tmp surefire_0-20250723162411702_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/Users/kusumas/eclipse-workspace/dsportal-automation/target/test-classes:/Users/kusumas/eclipse-workspace/dsportal-automation/target/classes:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-java/4.31.0/selenium-java-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-api/4.31.0/selenium-api-4.31.0.jar:/Users/kusumas/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.31.0/selenium-chrome-driver-4.31.0.jar:/Users/kusumas/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.31.0/selenium-chromium-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-json/4.31.0/selenium-json-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.31.0/selenium-manager-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v133/4.31.0/selenium-devtools-v133-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v134/4.31.0/selenium-devtools-v134-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v135/4.31.0/selenium-devtools-v135-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.31.0/selenium-edge-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.31.0/selenium-firefox-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-http/4.31.0/selenium-http-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.31.0/selenium-ie-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.31.0/selenium-remote-driver-4.31.0.jar:/Users/kusumas/.m2/repository/com/google/guava/guava/33.4.6-jre/guava-33.4.6-jre.jar:/Users/kusumas/.m2/repository/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar:/Users/kusumas/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/kusumas/.m2/repository/com/google/errorprone/error_prone_annotations/2.36.0/error_prone_annotations-2.36.0.jar:/Users/kusumas/.m2/repository/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-api/1.48.0/opentelemetry-api-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-context/1.48.0/opentelemetry-context-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.48.0/opentelemetry-exporter-logging-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.48.0/opentelemetry-sdk-common-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.48.0/opentelemetry-sdk-extension-autoconfigure-spi-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.48.0/opentelemetry-sdk-extension-autoconfigure-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.48.0/opentelemetry-sdk-trace-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.48.0/opentelemetry-sdk-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.48.0/opentelemetry-sdk-metrics-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.48.0/opentelemetry-sdk-logs-1.48.0.jar:/Users/kusumas/.m2/repository/net/bytebuddy/byte-buddy/1.17.5/byte-buddy-1.17.5.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-os/4.31.0/selenium-os-4.31.0.jar:/Users/kusumas/.m2/repository/org/apache/commons/commons-exec/1.4.0/commons-exec-1.4.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.31.0/selenium-safari-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-support/4.31.0/selenium-support-4.31.0.jar:/Users/kusumas/.m2/repository/org/testng/testng/7.10.1/testng-7.10.1.jar:/Users/kusumas/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/kusumas/.m2/repository/org/webjars/jquery/3.7.1/jquery-3.7.1.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-java/7.22.2/cucumber-java-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-core/7.22.2/cucumber-core-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-gherkin/7.22.2/cucumber-gherkin-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-gherkin-messages/7.22.2/cucumber-gherkin-messages-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/gherkin/32.1.1/gherkin-32.1.1.jar:/Users/kusumas/.m2/repository/io/cucumber/messages/27.2.0/messages-27.2.0.jar:/Users/kusumas/.m2/repository/io/cucumber/testng-xml-formatter/0.3.1/testng-xml-formatter-0.3.1.jar:/Users/kusumas/.m2/repository/io/cucumber/query/13.3.0/query-13.3.0.jar:/Users/kusumas/.m2/repository/io/cucumber/tag-expressions/6.1.2/tag-expressions-6.1.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-expressions/18.0.1/cucumber-expressions-18.0.1.jar:/Users/kusumas/.m2/repository/io/cucumber/datatable/7.22.2/datatable-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-plugin/7.22.2/cucumber-plugin-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/docstring/7.22.2/docstring-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/html-formatter/21.10.1/html-formatter-21.10.1.jar:/Users/kusumas/.m2/repository/io/cucumber/junit-xml-formatter/0.7.1/junit-xml-formatter-0.7.1.jar:/Users/kusumas/.m2/repository/io/cucumber/ci-environment/10.0.1/ci-environment-10.0.1.jar:/Users/kusumas/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-testng/7.22.2/cucumber-testng-7.22.2.jar:/Users/kusumas/.m2/repository/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar:/Users/kusumas/.m2/repository/ch/qos/logback/logback-classic/1.5.18/logback-classic-1.5.18.jar:/Users/kusumas/.m2/repository/ch/qos/logback/logback-core/1.5.18/logback-core-1.5.18.jar:/Users/kusumas/.m2/repository/org/apache/logging/log4j/log4j-core/2.24.3/log4j-core-2.24.3.jar:/Users/kusumas/.m2/repository/org/apache/logging/log4j/log4j-api/2.24.3/log4j-api-2.24.3.jar:"/>
+    <property name="surefire.test.class.path" value="/Users/kusumas/eclipse-workspace/dsportal-automation/target/test-classes:/Users/kusumas/eclipse-workspace/dsportal-automation/target/classes:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-java/4.31.0/selenium-java-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-api/4.31.0/selenium-api-4.31.0.jar:/Users/kusumas/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.31.0/selenium-chrome-driver-4.31.0.jar:/Users/kusumas/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.31.0/selenium-chromium-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-json/4.31.0/selenium-json-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.31.0/selenium-manager-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v133/4.31.0/selenium-devtools-v133-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v134/4.31.0/selenium-devtools-v134-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v135/4.31.0/selenium-devtools-v135-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.31.0/selenium-edge-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.31.0/selenium-firefox-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-http/4.31.0/selenium-http-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.31.0/selenium-ie-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.31.0/selenium-remote-driver-4.31.0.jar:/Users/kusumas/.m2/repository/com/google/guava/guava/33.4.6-jre/guava-33.4.6-jre.jar:/Users/kusumas/.m2/repository/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar:/Users/kusumas/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/kusumas/.m2/repository/com/google/errorprone/error_prone_annotations/2.36.0/error_prone_annotations-2.36.0.jar:/Users/kusumas/.m2/repository/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-api/1.48.0/opentelemetry-api-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-context/1.48.0/opentelemetry-context-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.48.0/opentelemetry-exporter-logging-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.48.0/opentelemetry-sdk-common-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.48.0/opentelemetry-sdk-extension-autoconfigure-spi-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.48.0/opentelemetry-sdk-extension-autoconfigure-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.48.0/opentelemetry-sdk-trace-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.48.0/opentelemetry-sdk-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.48.0/opentelemetry-sdk-metrics-1.48.0.jar:/Users/kusumas/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.48.0/opentelemetry-sdk-logs-1.48.0.jar:/Users/kusumas/.m2/repository/net/bytebuddy/byte-buddy/1.17.5/byte-buddy-1.17.5.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-os/4.31.0/selenium-os-4.31.0.jar:/Users/kusumas/.m2/repository/org/apache/commons/commons-exec/1.4.0/commons-exec-1.4.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.31.0/selenium-safari-driver-4.31.0.jar:/Users/kusumas/.m2/repository/org/seleniumhq/selenium/selenium-support/4.31.0/selenium-support-4.31.0.jar:/Users/kusumas/.m2/repository/org/testng/testng/7.10.1/testng-7.10.1.jar:/Users/kusumas/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/kusumas/.m2/repository/org/webjars/jquery/3.7.1/jquery-3.7.1.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-java/7.22.2/cucumber-java-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-core/7.22.2/cucumber-core-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-gherkin/7.22.2/cucumber-gherkin-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-gherkin-messages/7.22.2/cucumber-gherkin-messages-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/gherkin/32.1.1/gherkin-32.1.1.jar:/Users/kusumas/.m2/repository/io/cucumber/messages/27.2.0/messages-27.2.0.jar:/Users/kusumas/.m2/repository/io/cucumber/testng-xml-formatter/0.3.1/testng-xml-formatter-0.3.1.jar:/Users/kusumas/.m2/repository/io/cucumber/query/13.5.0/query-13.5.0.jar:/Users/kusumas/.m2/repository/io/cucumber/tag-expressions/6.1.2/tag-expressions-6.1.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-expressions/18.0.1/cucumber-expressions-18.0.1.jar:/Users/kusumas/.m2/repository/io/cucumber/datatable/7.22.2/datatable-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-plugin/7.22.2/cucumber-plugin-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/docstring/7.22.2/docstring-7.22.2.jar:/Users/kusumas/.m2/repository/io/cucumber/html-formatter/21.10.1/html-formatter-21.10.1.jar:/Users/kusumas/.m2/repository/io/cucumber/junit-xml-formatter/0.7.1/junit-xml-formatter-0.7.1.jar:/Users/kusumas/.m2/repository/io/cucumber/ci-environment/10.0.1/ci-environment-10.0.1.jar:/Users/kusumas/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/kusumas/.m2/repository/io/cucumber/cucumber-testng/7.22.2/cucumber-testng-7.22.2.jar:/Users/kusumas/.m2/repository/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar:/Users/kusumas/.m2/repository/ch/qos/logback/logback-classic/1.5.18/logback-classic-1.5.18.jar:/Users/kusumas/.m2/repository/ch/qos/logback/logback-core/1.5.18/logback-core-1.5.18.jar:/Users/kusumas/.m2/repository/org/apache/poi/poi/5.4.1/poi-5.4.1.jar:/Users/kusumas/.m2/repository/commons-codec/commons-codec/1.18.0/commons-codec-1.18.0.jar:/Users/kusumas/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar:/Users/kusumas/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar:/Users/kusumas/.m2/repository/commons-io/commons-io/2.18.0/commons-io-2.18.0.jar:/Users/kusumas/.m2/repository/com/zaxxer/SparseBitSet/1.3/SparseBitSet-1.3.jar:/Users/kusumas/.m2/repository/org/apache/poi/poi-ooxml/5.4.1/poi-ooxml-5.4.1.jar:/Users/kusumas/.m2/repository/org/apache/poi/poi-ooxml-lite/5.4.1/poi-ooxml-lite-5.4.1.jar:/Users/kusumas/.m2/repository/org/apache/xmlbeans/xmlbeans/5.3.0/xmlbeans-5.3.0.jar:/Users/kusumas/.m2/repository/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar:/Users/kusumas/.m2/repository/org/apache/commons/commons-lang3/3.16.0/commons-lang3-3.16.0.jar:/Users/kusumas/.m2/repository/com/github/virtuald/curvesapi/1.08/curvesapi-1.08.jar:/Users/kusumas/.m2/repository/org/apache/logging/log4j/log4j-core/2.24.3/log4j-core-2.24.3.jar:/Users/kusumas/.m2/repository/org/apache/logging/log4j/log4j-api/2.24.3/log4j-api-2.24.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/Users/kusumas"/>
     <property name="user.language" value="en"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/kusumas/eclipse-workspace/dsportal-automation/target/surefire/surefirebooter-20250617105844159_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/kusumas/eclipse-workspace/dsportal-automation/target/surefire/surefirebooter-20250723162411702_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="21.0.2+13-58"/>
@@ -59,404 +59,434 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="runScenario[&quot;Verify the user can open the DS Algo portal&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](1)" classname="runner.TestRunner" time="2.551">
+  <testcase name="runScenario[&quot;Verify the user can open the DS Algo portal&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](1)" classname="runner.TestRunner" time="3.576">
     <system-out><![CDATA[
-Scenario: Verify the user can open the DS Algo portal                                 # src/test/resources/features/HomePage.feature:13
-10:58:47.026 [main] INFO stepdefinition.HomePageSteps -- Opening browser...
+@register
+Scenario: Verify the user can open the DS Algo portal                                 # src/test/resources/features/HomePage.feature:14
+16:24:15.718 [main] INFO stepdefinition.HomePageSteps -- Opening browser...
   Given the user has opened the browser                                               # stepdefinition.HomePageSteps.the_user_has_opened_the_browser()
   When the user enters the correct DS Algo portal URL                                 # stepdefinition.HomePageSteps.the_user_enters_the_correct_ds_algo_portal_url()
-10:58:47.559 [main] INFO stepdefinition.HomePageSteps -- Button text matches: Get Started
+16:24:16.279 [main] INFO stepdefinition.HomePageSteps -- Button text matches: Get Started
   Then the user should land on the DS Algo portal with a "Get Started" button visible # stepdefinition.HomePageSteps.the_user_should_land_on_the_ds_algo_portal_with_a_button_visible(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:58:47 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:24:15 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify the Home page for a user without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](2)" classname="runner.TestRunner" time="2.352">
+  <testcase name="runScenario[&quot;Verify the Home page for a user without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](2)" classname="runner.TestRunner" time="2.586">
     <system-out><![CDATA[
-Scenario: Verify the Home page for a user without signing in                 # src/test/resources/features/HomePage.feature:18
+@register
+Scenario: Verify the Home page for a user without signing in                 # src/test/resources/features/HomePage.feature:19
   Given the user is on the DS Algo Portal                                    # stepdefinition.HomePageSteps.the_user_is_on_the_ds_algo_portal()
   When the user clicks the "Get Started" button                              # stepdefinition.HomePageSteps.the_user_clicks_the_button(java.lang.String)
-10:58:49.914 [main] INFO stepdefinition.HomePageSteps -- Homepage opened
+16:24:18.866 [main] INFO stepdefinition.HomePageSteps -- Homepage opened
   Then the user should be navigated to the Data Structures Introduction page # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_data_structures_introduction_page()
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:58:48 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:24:17 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify the user is able to navigate to the Register page without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](3)" classname="runner.TestRunner" time="2.505">
+  <testcase name="runScenario[&quot;Verify the user is able to navigate to the Register page without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](3)" classname="runner.TestRunner" time="2.684">
     <system-out><![CDATA[
-Scenario: Verify the user is able to navigate to the Register page without signing in # src/test/resources/features/HomePage.feature:23
+@register
+Scenario: Verify the user is able to navigate to the Register page without signing in # src/test/resources/features/HomePage.feature:24
   Given the user is on the Home page                                                  # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-  When the user clicks the Register link on the homepage                              # stepdefinition.HomePageSteps.the_user_clicks_the_register_link_on_the_homepage()
-10:58:52.419 [main] INFO stepdefinition.HomePageSteps -- RegisterPage opened
+  When the user clicks the Register link on the homepage without Sign-in              # stepdefinition.HomePageSteps.the_user_clicks_the_register_link_on_the_homepage()
+16:24:21.545 [main] INFO stepdefinition.HomePageSteps -- RegisterPage opened
   Then the user should see the Register page                                          # stepdefinition.HomePageSteps.the_user_should_see_the_register_page()
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:58:51 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:24:20 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify the user is able to navigate to the Sign-in page without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](4)" classname="runner.TestRunner" time="2.402">
+  <testcase name="runScenario[&quot;Verify the user is able to navigate to the Sign-in page without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](4)" classname="runner.TestRunner" time="2.585">
     <system-out><![CDATA[
-Scenario: Verify the user is able to navigate to the Sign-in page without signing in # src/test/resources/features/HomePage.feature:28
+@register
+Scenario: Verify the user is able to navigate to the Sign-in page without signing in # src/test/resources/features/HomePage.feature:29
   Given the user is on the Home page                                                 # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-  When the user clicks the Sign-in link on the homepage                              # stepdefinition.HomePageSteps.the_user_clicks_the_sign_in_link_on_the_homepage()
-10:58:54.826 [main] INFO stepdefinition.HomePageSteps -- SignInPage opened
+  When the user clicks the Sign-in link on the homepage without Sign-in              # stepdefinition.HomePageSteps.the_user_clicks_the_sign_in_link_on_the_homepage()
+16:24:24.136 [main] INFO stepdefinition.HomePageSteps -- SignInPage opened
   Then the user should see the Sign-in page                                          # stepdefinition.HomePageSteps.the_user_should_see_the_sign_in_page()
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:58:53 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:24:23 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify that user able to see warning message when selecting  from dropdown without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](5)" classname="runner.TestRunner" time="2.577">
+  <testcase name="runScenario[&quot;Verify that user able to see warning message when selecting &quot;Array&quot; from dropdown without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](5)" classname="runner.TestRunner" time="2.787">
     <system-out><![CDATA[
-Scenario Outline: Verify that user able to see warning message when selecting  from dropdown without signing in # src/test/resources/features/HomePage.feature:41
-  Given the user is on the Home page                                                                            # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:58:57.059 [main] INFO pageobjects.HomePage -- User click on Array
-  When the user selects "Array" from the Data Structures dropdown without signing in                            # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_without_signing_in(java.lang.String)
-  Then the user should see a warning message "You are not logged in"                                            # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
+@register
+Scenario Outline: Verify that user able to see warning message when selecting "Array" from dropdown without signing in # src/test/resources/features/HomePage.feature:42
+  Given the user is on the Home page                                                                                   # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
+16:24:26.528 [main] INFO pageobjects.HomePage -- User click on Array
+  When the user selects "Array" from the dropdown without sign in                                                      # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_without_signing_in(java.lang.String)
+  Then the user should see a warning message "You are not logged in"                                                   # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:58:56 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:24:25 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify that user able to see warning message when selecting  from dropdown without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](6)" classname="runner.TestRunner" time="2.563">
+  <testcase name="runScenario[&quot;Verify that user able to see warning message when selecting &quot;Linked List&quot; from dropdown without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](6)" classname="runner.TestRunner" time="2.716">
     <system-out><![CDATA[
-Scenario Outline: Verify that user able to see warning message when selecting  from dropdown without signing in # src/test/resources/features/HomePage.feature:42
-  Given the user is on the Home page                                                                            # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:58:59.630 [main] INFO pageobjects.HomePage -- User click on Linked List
-  When the user selects "Linked List" from the Data Structures dropdown without signing in                      # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_without_signing_in(java.lang.String)
-  Then the user should see a warning message "You are not logged in"                                            # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
+@register
+Scenario Outline: Verify that user able to see warning message when selecting "Linked List" from dropdown without signing in # src/test/resources/features/HomePage.feature:43
+  Given the user is on the Home page                                                                                         # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
+16:24:29.326 [main] INFO pageobjects.HomePage -- User click on Linked List
+  When the user selects "Linked List" from the dropdown without sign in                                                      # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_without_signing_in(java.lang.String)
+  Then the user should see a warning message "You are not logged in"                                                         # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:58:58 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:24:28 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify that user able to see warning message when selecting  from dropdown without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](7)" classname="runner.TestRunner" time="2.645">
+  <testcase name="runScenario[&quot;Verify that user able to see warning message when selecting &quot;Stack&quot; from dropdown without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](7)" classname="runner.TestRunner" time="2.762">
     <system-out><![CDATA[
-Scenario Outline: Verify that user able to see warning message when selecting  from dropdown without signing in # src/test/resources/features/HomePage.feature:43
-  Given the user is on the Home page                                                                            # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:02.268 [main] INFO pageobjects.HomePage -- User click on Stack
-  When the user selects "Stack" from the Data Structures dropdown without signing in                            # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_without_signing_in(java.lang.String)
-  Then the user should see a warning message "You are not logged in"                                            # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
+@register
+Scenario Outline: Verify that user able to see warning message when selecting "Stack" from dropdown without signing in # src/test/resources/features/HomePage.feature:44
+  Given the user is on the Home page                                                                                   # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
+16:24:32.065 [main] INFO pageobjects.HomePage -- User click on Stack
+  When the user selects "Stack" from the dropdown without sign in                                                      # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_without_signing_in(java.lang.String)
+  Then the user should see a warning message "You are not logged in"                                                   # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:01 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:24:31 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify that user able to see warning message when selecting  from dropdown without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](8)" classname="runner.TestRunner" time="2.616">
+  <testcase name="runScenario[&quot;Verify that user able to see warning message when selecting &quot;Queue&quot; from dropdown without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](8)" classname="runner.TestRunner" time="2.799">
     <system-out><![CDATA[
-Scenario Outline: Verify that user able to see warning message when selecting  from dropdown without signing in # src/test/resources/features/HomePage.feature:44
-  Given the user is on the Home page                                                                            # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:04.842 [main] INFO pageobjects.HomePage -- User click on Queue
-  When the user selects "Queue" from the Data Structures dropdown without signing in                            # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_without_signing_in(java.lang.String)
-  Then the user should see a warning message "You are not logged in"                                            # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
+@register
+Scenario Outline: Verify that user able to see warning message when selecting "Queue" from dropdown without signing in # src/test/resources/features/HomePage.feature:45
+  Given the user is on the Home page                                                                                   # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
+16:24:34.790 [main] INFO pageobjects.HomePage -- User click on Queue
+  When the user selects "Queue" from the dropdown without sign in                                                      # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_without_signing_in(java.lang.String)
+  Then the user should see a warning message "You are not logged in"                                                   # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:03 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:24:33 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify that user able to see warning message when selecting  from dropdown without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](9)" classname="runner.TestRunner" time="2.608">
+  <testcase name="runScenario[&quot;Verify that user able to see warning message when selecting &quot;Tree&quot; from dropdown without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](9)" classname="runner.TestRunner" time="2.702">
     <system-out><![CDATA[
-Scenario Outline: Verify that user able to see warning message when selecting  from dropdown without signing in # src/test/resources/features/HomePage.feature:45
-  Given the user is on the Home page                                                                            # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:07.500 [main] INFO pageobjects.HomePage -- User click on Tree
-  When the user selects "Tree" from the Data Structures dropdown without signing in                             # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_without_signing_in(java.lang.String)
-  Then the user should see a warning message "You are not logged in"                                            # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
+@register
+Scenario Outline: Verify that user able to see warning message when selecting "Tree" from dropdown without signing in # src/test/resources/features/HomePage.feature:46
+  Given the user is on the Home page                                                                                  # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
+16:24:37.580 [main] INFO pageobjects.HomePage -- User click on Tree
+  When the user selects "Tree" from the dropdown without sign in                                                      # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_without_signing_in(java.lang.String)
+  Then the user should see a warning message "You are not logged in"                                                  # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:06 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:24:36 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify that user able to see warning message when selecting  from dropdown without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](10)" classname="runner.TestRunner" time="2.557">
+  <testcase name="runScenario[&quot;Verify that user able to see warning message when selecting &quot;Graph&quot; from dropdown without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](10)" classname="runner.TestRunner" time="2.689">
     <system-out><![CDATA[
-Scenario Outline: Verify that user able to see warning message when selecting  from dropdown without signing in # src/test/resources/features/HomePage.feature:46
-  Given the user is on the Home page                                                                            # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:10.048 [main] INFO pageobjects.HomePage -- User click on Graph
-  When the user selects "Graph" from the Data Structures dropdown without signing in                            # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_without_signing_in(java.lang.String)
-  Then the user should see a warning message "You are not logged in"                                            # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
+@register
+Scenario Outline: Verify that user able to see warning message when selecting "Graph" from dropdown without signing in # src/test/resources/features/HomePage.feature:47
+  Given the user is on the Home page                                                                                   # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
+16:24:40.224 [main] INFO pageobjects.HomePage -- User click on Graph
+  When the user selects "Graph" from the dropdown without sign in                                                      # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_without_signing_in(java.lang.String)
+  Then the user should see a warning message "You are not logged in"                                                   # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:09 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:24:39 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify that user able to see warning message on clicking  &quot;Data Structures-Introduction&quot; Get Started button without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](11)" classname="runner.TestRunner" time="2.584">
+  <testcase name="runScenario[&quot;Verify that user able to see warning message on clicking  &quot;Data Structures-Introduction&quot; Get Started button without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](11)" classname="runner.TestRunner" time="2.622">
     <system-out><![CDATA[
-Scenario Outline: Verify that user able to see warning message on clicking  "Data Structures-Introduction" Get Started button without signing in # src/test/resources/features/HomePage.feature:56
+@register
+Scenario Outline: Verify that user able to see warning message on clicking  "Data Structures-Introduction" Get Started button without signing in # src/test/resources/features/HomePage.feature:57
   Given the user is on the Home page                                                                                                             # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:12.616 [main] INFO pageobjects.HomePage -- User click on Data Structures-Introduction
-  When the user clicks the "Data Structures-Introduction" Get Started button without signing in                                                  # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_without_signing_in(java.lang.String)
+16:24:42.855 [main] INFO pageobjects.HomePage -- User click on Data Structures-Introduction
+  When the user clicks the "Data Structures-Introduction" Get Started button without sign in                                                     # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_without_signing_in(java.lang.String)
   Then the user should see a warning message "You are not logged in"                                                                             # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:11 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:24:42 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify that user able to see warning message on clicking  &quot;Array&quot; Get Started button without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](12)" classname="runner.TestRunner" time="2.567">
+  <testcase name="runScenario[&quot;Verify that user able to see warning message on clicking  &quot;Array&quot; Get Started button without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](12)" classname="runner.TestRunner" time="2.762">
     <system-out><![CDATA[
-Scenario Outline: Verify that user able to see warning message on clicking  "Array" Get Started button without signing in # src/test/resources/features/HomePage.feature:57
+@register
+Scenario Outline: Verify that user able to see warning message on clicking  "Array" Get Started button without signing in # src/test/resources/features/HomePage.feature:58
   Given the user is on the Home page                                                                                      # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:15.190 [main] INFO pageobjects.HomePage -- User click on Array
-  When the user clicks the "Array" Get Started button without signing in                                                  # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_without_signing_in(java.lang.String)
+16:24:45.635 [main] INFO pageobjects.HomePage -- User click on Array
+  When the user clicks the "Array" Get Started button without sign in                                                     # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_without_signing_in(java.lang.String)
   Then the user should see a warning message "You are not logged in"                                                      # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:14 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:24:44 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify that user able to see warning message on clicking  &quot;Linked List&quot; Get Started button without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](13)" classname="runner.TestRunner" time="2.528">
+  <testcase name="runScenario[&quot;Verify that user able to see warning message on clicking  &quot;Linked List&quot; Get Started button without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](13)" classname="runner.TestRunner" time="2.507">
     <system-out><![CDATA[
-Scenario Outline: Verify that user able to see warning message on clicking  "Linked List" Get Started button without signing in # src/test/resources/features/HomePage.feature:58
+@register
+Scenario Outline: Verify that user able to see warning message on clicking  "Linked List" Get Started button without signing in # src/test/resources/features/HomePage.feature:59
   Given the user is on the Home page                                                                                            # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:17.697 [main] INFO pageobjects.HomePage -- User click on Linked List
-  When the user clicks the "Linked List" Get Started button without signing in                                                  # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_without_signing_in(java.lang.String)
+16:24:48.133 [main] INFO pageobjects.HomePage -- User click on Linked List
+  When the user clicks the "Linked List" Get Started button without sign in                                                     # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_without_signing_in(java.lang.String)
   Then the user should see a warning message "You are not logged in"                                                            # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:16 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:24:47 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify that user able to see warning message on clicking  &quot;Stack&quot; Get Started button without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](14)" classname="runner.TestRunner" time="2.586">
+  <testcase name="runScenario[&quot;Verify that user able to see warning message on clicking  &quot;Stack&quot; Get Started button without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](14)" classname="runner.TestRunner" time="2.427">
     <system-out><![CDATA[
-Scenario Outline: Verify that user able to see warning message on clicking  "Stack" Get Started button without signing in # src/test/resources/features/HomePage.feature:59
+@register
+Scenario Outline: Verify that user able to see warning message on clicking  "Stack" Get Started button without signing in # src/test/resources/features/HomePage.feature:60
   Given the user is on the Home page                                                                                      # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:20.307 [main] INFO pageobjects.HomePage -- User click on Stack
-  When the user clicks the "Stack" Get Started button without signing in                                                  # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_without_signing_in(java.lang.String)
+16:24:50.567 [main] INFO pageobjects.HomePage -- User click on Stack
+  When the user clicks the "Stack" Get Started button without sign in                                                     # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_without_signing_in(java.lang.String)
   Then the user should see a warning message "You are not logged in"                                                      # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:19 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:24:49 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify that user able to see warning message on clicking  &quot;Queue&quot; Get Started button without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](15)" classname="runner.TestRunner" time="2.51">
+  <testcase name="runScenario[&quot;Verify that user able to see warning message on clicking  &quot;Queue&quot; Get Started button without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](15)" classname="runner.TestRunner" time="2.489">
     <system-out><![CDATA[
-Scenario Outline: Verify that user able to see warning message on clicking  "Queue" Get Started button without signing in # src/test/resources/features/HomePage.feature:60
+@register
+Scenario Outline: Verify that user able to see warning message on clicking  "Queue" Get Started button without signing in # src/test/resources/features/HomePage.feature:61
   Given the user is on the Home page                                                                                      # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:22.833 [main] INFO pageobjects.HomePage -- User click on Queue
-  When the user clicks the "Queue" Get Started button without signing in                                                  # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_without_signing_in(java.lang.String)
+16:24:53.048 [main] INFO pageobjects.HomePage -- User click on Queue
+  When the user clicks the "Queue" Get Started button without sign in                                                     # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_without_signing_in(java.lang.String)
   Then the user should see a warning message "You are not logged in"                                                      # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:22 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:24:52 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify that user able to see warning message on clicking  &quot;Tree&quot; Get Started button without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](16)" classname="runner.TestRunner" time="2.524">
+  <testcase name="runScenario[&quot;Verify that user able to see warning message on clicking  &quot;Tree&quot; Get Started button without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](16)" classname="runner.TestRunner" time="2.431">
     <system-out><![CDATA[
-Scenario Outline: Verify that user able to see warning message on clicking  "Tree" Get Started button without signing in # src/test/resources/features/HomePage.feature:61
+@register
+Scenario Outline: Verify that user able to see warning message on clicking  "Tree" Get Started button without signing in # src/test/resources/features/HomePage.feature:62
   Given the user is on the Home page                                                                                     # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:25.341 [main] INFO pageobjects.HomePage -- User click on Tree
-  When the user clicks the "Tree" Get Started button without signing in                                                  # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_without_signing_in(java.lang.String)
+16:24:55.500 [main] INFO pageobjects.HomePage -- User click on Tree
+  When the user clicks the "Tree" Get Started button without sign in                                                     # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_without_signing_in(java.lang.String)
   Then the user should see a warning message "You are not logged in"                                                     # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:24 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:24:54 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify that user able to see warning message on clicking  &quot;Graph&quot; Get Started button without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](17)" classname="runner.TestRunner" time="2.529">
+  <testcase name="runScenario[&quot;Verify that user able to see warning message on clicking  &quot;Graph&quot; Get Started button without signing in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](17)" classname="runner.TestRunner" time="2.459">
     <system-out><![CDATA[
-Scenario Outline: Verify that user able to see warning message on clicking  "Graph" Get Started button without signing in # src/test/resources/features/HomePage.feature:62
+@register
+Scenario Outline: Verify that user able to see warning message on clicking  "Graph" Get Started button without signing in # src/test/resources/features/HomePage.feature:63
   Given the user is on the Home page                                                                                      # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:27.862 [main] INFO pageobjects.HomePage -- User click on Graph
-  When the user clicks the "Graph" Get Started button without signing in                                                  # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_without_signing_in(java.lang.String)
+16:24:57.963 [main] INFO pageobjects.HomePage -- User click on Graph
+  When the user clicks the "Graph" Get Started button without sign in                                                     # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_without_signing_in(java.lang.String)
   Then the user should see a warning message "You are not logged in"                                                      # stepdefinition.HomePageSteps.the_user_should_see_a_warning_message(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:27 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:24:57 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify navigation to introduction page from dropdown options after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](18)" classname="runner.TestRunner" time="3.536">
+  <testcase name="runScenario[&quot;Verify navigation to &quot;Array&quot; introduction page from dropdown options after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](18)" classname="runner.TestRunner" time="3.588">
     <system-out><![CDATA[
-Scenario Outline: Verify navigation to introduction page from dropdown options after sign-in # src/test/resources/features/HomePage.feature:73
-  Given the user is on the Home page                                                         # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:31.350 [main] INFO stepdefinition.HomePageSteps -- user sign-in
-  And the user is signed in                                                                  # stepdefinition.HomePageSteps.the_user_is_signed_in()
-10:59:31.417 [main] INFO pageobjects.HomePage -- User click on Array
-10:59:31.745 [main] INFO pageobjects.HomePage -- Navigated to page with title: Array
-  When the user selects "Array" from the Data Structures dropdown after sign-in              # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_after_sign_in(java.lang.String)
-  Then the user should be navigated to the introduction page for "Array"                     # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
+@register
+Scenario Outline: Verify navigation to "Array" introduction page from dropdown options after sign-in # src/test/resources/features/HomePage.feature:74
+  Given the user is on the Home page                                                                 # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
+16:25:01.470 [main] INFO stepdefinition.HomePageSteps -- user sign-in
+  And the user is signed in                                                                          # stepdefinition.HomePageSteps.the_user_is_signed_in()
+16:25:01.529 [main] INFO pageobjects.HomePage -- User click on Array
+16:25:01.863 [main] INFO pageobjects.HomePage -- Navigated to page with title: Array
+  When the user selects "Array" from the dropdown after sign-in                                      # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_after_sign_in(java.lang.String)
+  Then the user should be navigated to the introduction page for "Array"                             # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:29 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:24:59 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify navigation to introduction page from dropdown options after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](19)" classname="runner.TestRunner" time="3.602">
+  <testcase name="runScenario[&quot;Verify navigation to &quot;Linked List&quot; introduction page from dropdown options after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](19)" classname="runner.TestRunner" time="3.685">
     <system-out><![CDATA[
-Scenario Outline: Verify navigation to introduction page from dropdown options after sign-in # src/test/resources/features/HomePage.feature:74
-  Given the user is on the Home page                                                         # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:34.900 [main] INFO stepdefinition.HomePageSteps -- user sign-in
-  And the user is signed in                                                                  # stepdefinition.HomePageSteps.the_user_is_signed_in()
-10:59:34.962 [main] INFO pageobjects.HomePage -- User click on Linked List
-10:59:35.345 [main] INFO pageobjects.HomePage -- Navigated to page with title: Linked List
-  When the user selects "Linked List" from the Data Structures dropdown after sign-in        # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_after_sign_in(java.lang.String)
-  Then the user should be navigated to the introduction page for "Linked List"               # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
+@register
+Scenario Outline: Verify navigation to "Linked List" introduction page from dropdown options after sign-in # src/test/resources/features/HomePage.feature:75
+  Given the user is on the Home page                                                                       # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
+16:25:05.103 [main] INFO stepdefinition.HomePageSteps -- user sign-in
+  And the user is signed in                                                                                # stepdefinition.HomePageSteps.the_user_is_signed_in()
+16:25:05.186 [main] INFO pageobjects.HomePage -- User click on Linked List
+16:25:05.559 [main] INFO pageobjects.HomePage -- Navigated to page with title: Linked List
+  When the user selects "Linked List" from the dropdown after sign-in                                      # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_after_sign_in(java.lang.String)
+  Then the user should be navigated to the introduction page for "Linked List"                             # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:33 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:25:03 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify navigation to introduction page from dropdown options after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](20)" classname="runner.TestRunner" time="3.675">
+  <testcase name="runScenario[&quot;Verify navigation to &quot;Stack&quot; introduction page from dropdown options after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](20)" classname="runner.TestRunner" time="3.645">
     <system-out><![CDATA[
-Scenario Outline: Verify navigation to introduction page from dropdown options after sign-in # src/test/resources/features/HomePage.feature:75
-  Given the user is on the Home page                                                         # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:38.608 [main] INFO stepdefinition.HomePageSteps -- user sign-in
-  And the user is signed in                                                                  # stepdefinition.HomePageSteps.the_user_is_signed_in()
-10:59:38.704 [main] INFO pageobjects.HomePage -- User click on Stack
-10:59:38.999 [main] INFO pageobjects.HomePage -- Navigated to page with title: Stack
-  When the user selects "Stack" from the Data Structures dropdown after sign-in              # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_after_sign_in(java.lang.String)
-  Then the user should be navigated to the introduction page for "Stack"                     # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
+@register
+Scenario Outline: Verify navigation to "Stack" introduction page from dropdown options after sign-in # src/test/resources/features/HomePage.feature:76
+  Given the user is on the Home page                                                                 # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
+16:25:08.104 [main] INFO stepdefinition.HomePageSteps -- user sign-in
+  And the user is signed in                                                                          # stepdefinition.HomePageSteps.the_user_is_signed_in()
+16:25:08.886 [main] INFO pageobjects.HomePage -- User click on Stack
+16:25:09.164 [main] INFO pageobjects.HomePage -- Navigated to page with title: Stack
+  When the user selects "Stack" from the dropdown after sign-in                                      # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_after_sign_in(java.lang.String)
+  Then the user should be navigated to the introduction page for "Stack"                             # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:36 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:25:06 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify navigation to introduction page from dropdown options after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](21)" classname="runner.TestRunner" time="3.468">
+  <testcase name="runScenario[&quot;Verify navigation to &quot;Queue&quot; introduction page from dropdown options after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](21)" classname="runner.TestRunner" time="3.452">
     <system-out><![CDATA[
-Scenario Outline: Verify navigation to introduction page from dropdown options after sign-in # src/test/resources/features/HomePage.feature:76
-  Given the user is on the Home page                                                         # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:42.086 [main] INFO stepdefinition.HomePageSteps -- user sign-in
-  And the user is signed in                                                                  # stepdefinition.HomePageSteps.the_user_is_signed_in()
-10:59:42.180 [main] INFO pageobjects.HomePage -- User click on Queue
-10:59:42.493 [main] INFO pageobjects.HomePage -- Navigated to page with title: Queue
-  When the user selects "Queue" from the Data Structures dropdown after sign-in              # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_after_sign_in(java.lang.String)
-  Then the user should be navigated to the introduction page for "Queue"                     # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
+@register
+Scenario Outline: Verify navigation to "Queue" introduction page from dropdown options after sign-in # src/test/resources/features/HomePage.feature:77
+  Given the user is on the Home page                                                                 # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
+16:25:11.754 [main] INFO stepdefinition.HomePageSteps -- user sign-in
+  And the user is signed in                                                                          # stepdefinition.HomePageSteps.the_user_is_signed_in()
+16:25:12.346 [main] INFO pageobjects.HomePage -- User click on Queue
+16:25:12.637 [main] INFO pageobjects.HomePage -- Navigated to page with title: Queue
+  When the user selects "Queue" from the dropdown after sign-in                                      # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_after_sign_in(java.lang.String)
+  Then the user should be navigated to the introduction page for "Queue"                             # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:40 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:25:10 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify navigation to introduction page from dropdown options after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](22)" classname="runner.TestRunner" time="3.586">
+  <testcase name="runScenario[&quot;Verify navigation to &quot;Tree&quot; introduction page from dropdown options after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](22)" classname="runner.TestRunner" time="3.805">
     <system-out><![CDATA[
-Scenario Outline: Verify navigation to introduction page from dropdown options after sign-in # src/test/resources/features/HomePage.feature:77
-  Given the user is on the Home page                                                         # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:45.620 [main] INFO stepdefinition.HomePageSteps -- user sign-in
-  And the user is signed in                                                                  # stepdefinition.HomePageSteps.the_user_is_signed_in()
-10:59:45.685 [main] INFO pageobjects.HomePage -- User click on Tree
-10:59:46.046 [main] INFO pageobjects.HomePage -- Navigated to page with title: Tree
-  When the user selects "Tree" from the Data Structures dropdown after sign-in               # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_after_sign_in(java.lang.String)
-  Then the user should be navigated to the introduction page for "Tree"                      # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
+@register
+Scenario Outline: Verify navigation to "Tree" introduction page from dropdown options after sign-in # src/test/resources/features/HomePage.feature:78
+  Given the user is on the Home page                                                                # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
+16:25:15.967 [main] INFO stepdefinition.HomePageSteps -- user sign-in
+  And the user is signed in                                                                         # stepdefinition.HomePageSteps.the_user_is_signed_in()
+16:25:16.035 [main] INFO pageobjects.HomePage -- User click on Tree
+16:25:16.416 [main] INFO pageobjects.HomePage -- Navigated to page with title: Tree
+  When the user selects "Tree" from the dropdown after sign-in                                      # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_after_sign_in(java.lang.String)
+  Then the user should be navigated to the introduction page for "Tree"                             # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:43 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:25:14 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify navigation to introduction page from dropdown options after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](23)" classname="runner.TestRunner" time="3.811">
+  <testcase name="runScenario[&quot;Verify navigation to &quot;Graph&quot; introduction page from dropdown options after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](23)" classname="runner.TestRunner" time="3.692">
     <system-out><![CDATA[
-Scenario Outline: Verify navigation to introduction page from dropdown options after sign-in # src/test/resources/features/HomePage.feature:78
-  Given the user is on the Home page                                                         # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:49.026 [main] INFO stepdefinition.HomePageSteps -- user sign-in
-  And the user is signed in                                                                  # stepdefinition.HomePageSteps.the_user_is_signed_in()
-10:59:49.609 [main] INFO pageobjects.HomePage -- User click on Graph
-10:59:49.885 [main] INFO pageobjects.HomePage -- Navigated to page with title: Graph
-  When the user selects "Graph" from the Data Structures dropdown after sign-in              # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_after_sign_in(java.lang.String)
-  Then the user should be navigated to the introduction page for "Graph"                     # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
+@register
+Scenario Outline: Verify navigation to "Graph" introduction page from dropdown options after sign-in # src/test/resources/features/HomePage.feature:79
+  Given the user is on the Home page                                                                 # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
+16:25:19.720 [main] INFO stepdefinition.HomePageSteps -- user sign-in
+  And the user is signed in                                                                          # stepdefinition.HomePageSteps.the_user_is_signed_in()
+16:25:19.782 [main] INFO pageobjects.HomePage -- User click on Graph
+16:25:20.112 [main] INFO pageobjects.HomePage -- Navigated to page with title: Graph
+  When the user selects "Graph" from the dropdown after sign-in                                      # stepdefinition.HomePageSteps.the_user_selects_from_the_data_structures_dropdown_after_sign_in(java.lang.String)
+  Then the user should be navigated to the introduction page for "Graph"                             # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:47 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:25:17 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify navigation to introduction page on clicking &quot;Data Structures-Introduction&quot; Get Started button after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](24)" classname="runner.TestRunner" time="3.324">
+  <testcase name="runScenario[&quot;Verify navigation to introduction page on clicking &quot;Data Structures-Introduction&quot; Get Started button after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](24)" classname="runner.TestRunner" time="3.36">
     <system-out><![CDATA[
-Scenario Outline: Verify navigation to introduction page on clicking "Data Structures-Introduction" Get Started button after sign-in # src/test/resources/features/HomePage.feature:89
+@register
+Scenario Outline: Verify navigation to introduction page on clicking "Data Structures-Introduction" Get Started button after sign-in # src/test/resources/features/HomePage.feature:90
   Given the user is on the Home page                                                                                                 # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:52.913 [main] INFO stepdefinition.HomePageSteps -- user sign-in
+16:25:22.685 [main] INFO stepdefinition.HomePageSteps -- user sign-in
   And the user is signed in                                                                                                          # stepdefinition.HomePageSteps.the_user_is_signed_in()
-10:59:52.914 [main] INFO pageobjects.HomePage -- User click on Data Structures-Introduction
-10:59:53.210 [main] INFO pageobjects.HomePage -- Navigated to page with title: Data Structures-Introduction
+16:25:22.686 [main] INFO pageobjects.HomePage -- User click on Data Structures-Introduction
+16:25:23.501 [main] INFO pageobjects.HomePage -- Navigated to page with title: Data Structures-Introduction
   When the user clicks the "Data Structures-Introduction" Get Started button with sign-in                                            # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_with_sign_in(java.lang.String)
   Then the user should be navigated to the introduction page for "Data Structures-Introduction"                                      # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:51 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:25:21 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify navigation to introduction page on clicking &quot;Array&quot; Get Started button after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](25)" classname="runner.TestRunner" time="3.639">
+  <testcase name="runScenario[&quot;Verify navigation to introduction page on clicking &quot;Array&quot; Get Started button after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](25)" classname="runner.TestRunner" time="3.361">
     <system-out><![CDATA[
-Scenario Outline: Verify navigation to introduction page on clicking "Array" Get Started button after sign-in # src/test/resources/features/HomePage.feature:90
+@register
+Scenario Outline: Verify navigation to introduction page on clicking "Array" Get Started button after sign-in # src/test/resources/features/HomePage.feature:91
   Given the user is on the Home page                                                                          # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:56.443 [main] INFO stepdefinition.HomePageSteps -- user sign-in
+16:25:25.973 [main] INFO stepdefinition.HomePageSteps -- user sign-in
   And the user is signed in                                                                                   # stepdefinition.HomePageSteps.the_user_is_signed_in()
-10:59:56.444 [main] INFO pageobjects.HomePage -- User click on Array
-10:59:56.848 [main] INFO pageobjects.HomePage -- Navigated to page with title: Array
+16:25:25.973 [main] INFO pageobjects.HomePage -- User click on Array
+16:25:26.837 [main] INFO pageobjects.HomePage -- Navigated to page with title: Array
   When the user clicks the "Array" Get Started button with sign-in                                            # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_with_sign_in(java.lang.String)
   Then the user should be navigated to the introduction page for "Array"                                      # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:54 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:25:24 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify navigation to introduction page on clicking &quot;Linked List&quot; Get Started button after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](26)" classname="runner.TestRunner" time="3.723">
+  <testcase name="runScenario[&quot;Verify navigation to introduction page on clicking &quot;Linked List&quot; Get Started button after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](26)" classname="runner.TestRunner" time="3.548">
     <system-out><![CDATA[
-Scenario Outline: Verify navigation to introduction page on clicking "Linked List" Get Started button after sign-in # src/test/resources/features/HomePage.feature:91
+@register
+Scenario Outline: Verify navigation to introduction page on clicking "Linked List" Get Started button after sign-in # src/test/resources/features/HomePage.feature:92
   Given the user is on the Home page                                                                                # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-10:59:59.399 [main] INFO stepdefinition.HomePageSteps -- user sign-in
+16:25:29.424 [main] INFO stepdefinition.HomePageSteps -- user sign-in
   And the user is signed in                                                                                         # stepdefinition.HomePageSteps.the_user_is_signed_in()
-10:59:59.400 [main] INFO pageobjects.HomePage -- User click on Linked List
-11:00:00.542 [main] INFO pageobjects.HomePage -- Navigated to page with title: Linked List
+16:25:29.424 [main] INFO pageobjects.HomePage -- User click on Linked List
+16:25:30.409 [main] INFO pageobjects.HomePage -- Navigated to page with title: Linked List
   When the user clicks the "Linked List" Get Started button with sign-in                                            # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_with_sign_in(java.lang.String)
   Then the user should be navigated to the introduction page for "Linked List"                                      # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 10:59:58 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:25:28 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify navigation to introduction page on clicking &quot;Stack&quot; Get Started button after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](27)" classname="runner.TestRunner" time="3.537">
+  <testcase name="runScenario[&quot;Verify navigation to introduction page on clicking &quot;Stack&quot; Get Started button after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](27)" classname="runner.TestRunner" time="3.339">
     <system-out><![CDATA[
-Scenario Outline: Verify navigation to introduction page on clicking "Stack" Get Started button after sign-in # src/test/resources/features/HomePage.feature:92
+@register
+Scenario Outline: Verify navigation to introduction page on clicking "Stack" Get Started button after sign-in # src/test/resources/features/HomePage.feature:93
   Given the user is on the Home page                                                                          # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-11:00:03.283 [main] INFO stepdefinition.HomePageSteps -- user sign-in
+16:25:32.876 [main] INFO stepdefinition.HomePageSteps -- user sign-in
   And the user is signed in                                                                                   # stepdefinition.HomePageSteps.the_user_is_signed_in()
-11:00:03.283 [main] INFO pageobjects.HomePage -- User click on Stack
-11:00:04.102 [main] INFO pageobjects.HomePage -- Navigated to page with title: Stack
+16:25:32.877 [main] INFO pageobjects.HomePage -- User click on Stack
+16:25:33.727 [main] INFO pageobjects.HomePage -- Navigated to page with title: Stack
   When the user clicks the "Stack" Get Started button with sign-in                                            # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_with_sign_in(java.lang.String)
   Then the user should be navigated to the introduction page for "Stack"                                      # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 11:00:01 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:25:31 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify navigation to introduction page on clicking &quot;Queue&quot; Get Started button after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](28)" classname="runner.TestRunner" time="3.466">
+  <testcase name="runScenario[&quot;Verify navigation to introduction page on clicking &quot;Queue&quot; Get Started button after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](28)" classname="runner.TestRunner" time="3.352">
     <system-out><![CDATA[
-Scenario Outline: Verify navigation to introduction page on clicking "Queue" Get Started button after sign-in # src/test/resources/features/HomePage.feature:93
+@register
+Scenario Outline: Verify navigation to introduction page on clicking "Queue" Get Started button after sign-in # src/test/resources/features/HomePage.feature:94
   Given the user is on the Home page                                                                          # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-11:00:07.164 [main] INFO stepdefinition.HomePageSteps -- user sign-in
+16:25:36.255 [main] INFO stepdefinition.HomePageSteps -- user sign-in
   And the user is signed in                                                                                   # stepdefinition.HomePageSteps.the_user_is_signed_in()
-11:00:07.165 [main] INFO pageobjects.HomePage -- User click on Queue
-11:00:07.575 [main] INFO pageobjects.HomePage -- Navigated to page with title: Queue
+16:25:36.255 [main] INFO pageobjects.HomePage -- User click on Queue
+16:25:37.074 [main] INFO pageobjects.HomePage -- Navigated to page with title: Queue
   When the user clicks the "Queue" Get Started button with sign-in                                            # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_with_sign_in(java.lang.String)
   Then the user should be navigated to the introduction page for "Queue"                                      # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 11:00:05 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:25:35 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify navigation to introduction page on clicking &quot;Tree&quot; Get Started button after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](29)" classname="runner.TestRunner" time="3.428">
+  <testcase name="runScenario[&quot;Verify navigation to introduction page on clicking &quot;Tree&quot; Get Started button after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](29)" classname="runner.TestRunner" time="3.402">
     <system-out><![CDATA[
-Scenario Outline: Verify navigation to introduction page on clicking "Tree" Get Started button after sign-in # src/test/resources/features/HomePage.feature:94
+@register
+Scenario Outline: Verify navigation to introduction page on clicking "Tree" Get Started button after sign-in # src/test/resources/features/HomePage.feature:95
   Given the user is on the Home page                                                                         # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-11:00:10.140 [main] INFO stepdefinition.HomePageSteps -- user sign-in
+16:25:39.602 [main] INFO stepdefinition.HomePageSteps -- user sign-in
   And the user is signed in                                                                                  # stepdefinition.HomePageSteps.the_user_is_signed_in()
-11:00:10.141 [main] INFO pageobjects.HomePage -- User click on Tree
-11:00:11.010 [main] INFO pageobjects.HomePage -- Navigated to page with title: Tree
+16:25:39.603 [main] INFO pageobjects.HomePage -- User click on Tree
+16:25:40.508 [main] INFO pageobjects.HomePage -- Navigated to page with title: Tree
   When the user clicks the "Tree" Get Started button with sign-in                                            # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_with_sign_in(java.lang.String)
   Then the user should be navigated to the introduction page for "Tree"                                      # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 11:00:08 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:25:38 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Verify navigation to introduction page on clicking &quot;Graph&quot; Get Started button after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](30)" classname="runner.TestRunner" time="3.6">
+  <testcase name="runScenario[&quot;Verify navigation to introduction page on clicking &quot;Graph&quot; Get Started button after sign-in&quot;, &quot;DS Algo Portal - Home Page and Navigation&quot;](30)" classname="runner.TestRunner" time="3.257">
     <system-out><![CDATA[
-Scenario Outline: Verify navigation to introduction page on clicking "Graph" Get Started button after sign-in # src/test/resources/features/HomePage.feature:95
+@register
+Scenario Outline: Verify navigation to introduction page on clicking "Graph" Get Started button after sign-in # src/test/resources/features/HomePage.feature:96
   Given the user is on the Home page                                                                          # stepdefinition.HomePageSteps.the_user_is_on_the_home_page()
-11:00:13.676 [main] INFO stepdefinition.HomePageSteps -- user sign-in
+16:25:42.971 [main] INFO stepdefinition.HomePageSteps -- user sign-in
   And the user is signed in                                                                                   # stepdefinition.HomePageSteps.the_user_is_signed_in()
-11:00:13.677 [main] INFO pageobjects.HomePage -- User click on Graph
-11:00:14.609 [main] INFO pageobjects.HomePage -- Navigated to page with title: Graph
+16:25:42.971 [main] INFO pageobjects.HomePage -- User click on Graph
+16:25:43.768 [main] INFO pageobjects.HomePage -- Navigated to page with title: Graph
   When the user clicks the "Graph" Get Started button with sign-in                                            # stepdefinition.HomePageSteps.the_user_clicks_the_get_started_button_with_sign_in(java.lang.String)
   Then the user should be navigated to the introduction page for "Graph"                                      # stepdefinition.HomePageSteps.the_user_should_be_navigated_to_the_introduction_page_for(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Jun 17, 2025 11:00:12 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 137, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 137
+    <system-err><![CDATA[Jul 23, 2025 4:25:41 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
 ]]></system-err>
   </testcase>
 </testsuite>

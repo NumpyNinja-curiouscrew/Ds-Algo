@@ -33,11 +33,11 @@ public class HomePage {
 	By passwordTextBox = By.xpath("//*[@id='id_password']");
 	By loginButton =By.xpath("//*[@value='Login']");
 	By arraysDropDown=By.xpath("//*[contains(text(),'Arrays')]");
-	By linkListDropDown=By.xpath("//*[contains(text(),'Linked List')]");
-	By stackDropDown=By.xpath("//*[contains(text(),'Stack')]");
-	By queueDropDown=By.xpath("//*[contains(text(),'Queue')]");
-	By treeDropDown=By.xpath("//*[contains(text(),'Tree')]");
-	By graphDropDown=By.xpath("//*[contains(text(),'Graph')]");
+	By linkListDropDown=By.xpath("//*[@href='/linked-list']");
+	By stackDropDown=By.xpath("//*[@href='/stack']");
+	By queueDropDown=By.xpath("//*[@href='/queue']");
+	By treeDropDown=By.xpath("//*[@href='/tree']");
+	By graphDropDown=By.xpath("//*[@href='/graph']");
 	
 	public HomePage(WebDriver driver) {
         this.driver = driver;

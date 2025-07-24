@@ -8,6 +8,7 @@
 # <> (Placeholder for dynamic values)
 # "" and ## are for comments
 
+
 Feature: DS Algo Portal - Home Page and Navigation
 
   Scenario: Verify the user can open the DS Algo portal
@@ -22,18 +23,18 @@ Feature: DS Algo Portal - Home Page and Navigation
    
  Scenario: Verify the user is able to navigate to the Register page without signing in
     Given the user is on the Home page
-    When the user clicks the Register link on the homepage
+    When the user clicks the Register link on the homepage without Sign-in
     Then the user should see the Register page
 
   Scenario: Verify the user is able to navigate to the Sign-in page without signing in
     Given the user is on the Home page
-    When the user clicks the Sign-in link on the homepage
+    When the user clicks the Sign-in link on the homepage without Sign-in
     Then the user should see the Sign-in page
     
 
-  Scenario Outline: Verify that user able to see warning message when selecting  from dropdown without signing in
+  Scenario Outline: Verify that user able to see warning message when selecting "<option>" from dropdown without signing in
   Given the user is on the Home page
-  When the user selects "<option>" from the Data Structures dropdown without signing in
+  When the user selects "<option>" from the dropdown without sign in
   Then the user should see a warning message "You are not logged in"
 
     Examples:
@@ -48,7 +49,7 @@ Feature: DS Algo Portal - Home Page and Navigation
   
   Scenario Outline: Verify that user able to see warning message on clicking  "<section>" Get Started button without signing in
     Given the user is on the Home page
-    When the user clicks the "<section>" Get Started button without signing in
+    When the user clicks the "<section>" Get Started button without sign in
     Then the user should see a warning message "You are not logged in"
 
    Examples:
@@ -62,10 +63,10 @@ Feature: DS Algo Portal - Home Page and Navigation
       | Graph                  |
   
        
- Scenario Outline: Verify navigation to introduction page from dropdown options after sign-in
+ Scenario Outline: Verify navigation to "<option>" introduction page from dropdown options after sign-in
   Given the user is on the Home page 
   And the user is signed in
-  When the user selects "<option>" from the Data Structures dropdown after sign-in
+  When the user selects "<option>" from the dropdown after sign-in
   Then the user should be navigated to the introduction page for "<option>"
 
  Examples:

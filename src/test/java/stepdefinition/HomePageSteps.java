@@ -57,7 +57,7 @@ public class HomePageSteps {
         homePage.getHomePage();
     }
 
-    @When("the user clicks the Register link on the homepage")
+    @When("the user clicks the Register link on the homepage without Sign-in")
     public void the_user_clicks_the_register_link_on_the_homepage() {
        homePage.clickRegisterLink();
     }
@@ -70,7 +70,7 @@ public class HomePageSteps {
         
     }
 
-    @When("the user clicks the Sign-in link on the homepage")
+    @When("the user clicks the Sign-in link on the homepage without Sign-in")
     public void the_user_clicks_the_sign_in_link_on_the_homepage() {
        homePage.signInClick();
     }
@@ -84,7 +84,7 @@ public class HomePageSteps {
     }
  	   
    
-    @When("the user selects {string} from the Data Structures dropdown without signing in")
+    @When("the user selects {string} from the dropdown without sign in")
     public void the_user_selects_from_the_data_structures_dropdown_without_signing_in(String option)  {
     	homePage.clickDropDown(option);
     }
@@ -95,7 +95,7 @@ public class HomePageSteps {
     	    Assert.assertEquals(actualMessage,expectedMessage, "Warning message does not match!");
     	}
     
-    @When("the user clicks the {string} Get Started button without signing in")
+    @When("the user clicks the {string} Get Started button without sign in")
     public void the_user_clicks_the_get_started_button_without_signing_in(String section) {
     	homePage.clickingGetStarted(section);	
         
@@ -105,7 +105,7 @@ public class HomePageSteps {
         homePage.login();
         logger.info("user sign-in");
     }
-    @When("the user selects {string} from the Data Structures dropdown after sign-in")
+    @When("the user selects {string} from the dropdown after sign-in")
     public void the_user_selects_from_the_data_structures_dropdown_after_sign_in(String option) {
          actualTitle=homePage.afterSignin_DropDown(option);  // Store returned title in a class variable
     }
