@@ -1,6 +1,0 @@
-runner/TestRunner.class
-utils/ConfigReader.class
-stepdefinition/HomePageSteps.class
-apphooks/Hooks.class
-pageobjects/HomePage.class
-driverfactory/DriverFactory.class

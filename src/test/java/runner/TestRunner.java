@@ -6,6 +6,7 @@ import io.cucumber.testng.CucumberOptions;
 @CucumberOptions(
     features = "src/test/resources/features",
     glue = {"stepdefinition", "apphooks"},
+    tags = "@register",
     plugin = {"pretty", "html:target/cucumber-reports.html"},
     monochrome = true,
     dryRun = false
