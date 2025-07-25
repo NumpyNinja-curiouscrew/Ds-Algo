@@ -8,7 +8,7 @@
 # <> (Placeholder for dynamic values)
 # "" and ## are for comments
 
-
+@register
 Feature: DS Algo Portal - Home Page and Navigation
 
   Scenario: Verify the user can open the DS Algo portal
