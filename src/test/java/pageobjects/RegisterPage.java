@@ -1,22 +1,21 @@
 package pageobjects;
-
-
-
-
 import java.util.HashMap;
 import java.util.Map;
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import driverfactory.DriverFactory;
 
 
 public class RegisterPage {
     
     private WebDriver driver;
     private static final Logger logger = LoggerFactory.getLogger(RegisterPage.class);
-   
+    String actualResult;
 	
     // locators
     By usernameInput = By.id("id_username");            
@@ -28,7 +27,7 @@ public class RegisterPage {
         this.driver = driver;
     }
 
-    // Field id map for validation
+    
     private static final Map<String, String> fieldIdMap = new HashMap<>();
     static {
         fieldIdMap.put("username", "id_username");
@@ -60,11 +59,17 @@ public class RegisterPage {
         driver.findElement(registerButton).click();
     }
 
-    public String getFieldId(String fieldName) {
-        return fieldIdMap.get(fieldName);
-    }
-    
    
+    
+   public String actualError(String fieldname) {
+	   String fieldId=fieldIdMap.get(fieldname);
+	    JavascriptExecutor js = (JavascriptExecutor)DriverFactory.getDriver();
+	    actualResult = (String) js.executeScript(
+	        "return document.getElementById(arguments[0]).validationMessage;",fieldId
+	    );
+	return actualResult;
+	   
+   }
     
     
 }
