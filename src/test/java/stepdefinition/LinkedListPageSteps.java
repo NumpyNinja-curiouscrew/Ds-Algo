@@ -155,6 +155,7 @@ public class LinkedListPageSteps {
 			linkedListPage.getTotypesofLinkedListPage(); 
 			linkedListPage.clicktryHere();
 		}
+		
 		@When("The user clicks on the Implement Linked List in Python link")
 		public void the_user_clicks_on_the_implement_linked_list_in_python_link() {
 			actualTitle = linkedListPage.getToimplementLinkedListPage();
@@ -163,6 +164,7 @@ public class LinkedListPageSteps {
 		@Given("The user is on the Implement Linked List in Python Page")
 		public void the_user_is_on_the_implement_linked_list_in_python_page() {
 			linkedListPage.getToimplementLinkedListPage();
+			
 		}
 		
 		@Given("The user is in the Assessment page accessed from Implement Linked List in Python Page")
@@ -170,6 +172,7 @@ public class LinkedListPageSteps {
 			linkedListPage.getToimplementLinkedListPage();
 			linkedListPage.clicktryHere();
 		}
+		
 		
 
 		@When("The user clicks on the Traversal link")

@@ -16,7 +16,7 @@
 #""
 ## (Comments)
 #Sample Feature Definition Template
- @register
+ 
 Feature: Linked List Page Validation
 
 

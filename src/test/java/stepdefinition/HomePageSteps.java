@@ -100,8 +100,9 @@ public class HomePageSteps {
     	homePage.clickingGetStarted(section);	
         
     }
-    @Given("the user is signed in")
+    @Given("the user is on the Home page after sign-in")
     public void the_user_is_signed_in()   {
+    	homePage.getHomePage();
         homePage.login();
         logger.info("user sign-in");
     }
@@ -116,8 +117,8 @@ public class HomePageSteps {
     }
 
     
-    @When("the user clicks the {string} Get Started button with sign-in")
-    public void the_user_clicks_the_get_started_button_with_sign_in(String option) {
+    @When("the user clicks the {string} Get Started button after sign-in")
+    public void the_user_clicks_the_get_started_button_after_sign_in(String option) {
     	actualTitle=homePage.afterSignin_GetStarted(option);
     	
     	

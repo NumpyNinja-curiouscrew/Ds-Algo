@@ -1,10 +1,13 @@
 package pageobjects;
+import java.time.Duration;
 import java.util.HashMap;
 import java.util.Map;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -63,6 +66,8 @@ public class RegisterPage {
     
    public String actualError(String fieldname) {
 	   String fieldId=fieldIdMap.get(fieldname);
+	   WebDriverWait wait = new WebDriverWait(DriverFactory.getDriver(), Duration.ofSeconds(10));
+	    wait.until(ExpectedConditions.presenceOfElementLocated(By.id(fieldId)));
 	    JavascriptExecutor js = (JavascriptExecutor)DriverFactory.getDriver();
 	    actualResult = (String) js.executeScript(
 	        "return document.getElementById(arguments[0]).validationMessage;",fieldId

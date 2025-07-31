@@ -36,23 +36,31 @@ public void the_user_is_on_the_user_registration_page() {
 	homePage.clickRegisterLink();
 }
 
-@When("the user clicks the Register button after entering a valid password and confirm password.")
-public void the_user_clicks_the_register_button_after_entering_a_valid_password_and_confirm_password() {
-	testData = ExcelUtils.readExcelRow(scenario.getName(), "Register");
-	String password = testData.get("password");
+@When("the user enters valid testdata and click run button.")
+public void the_user_enters_valid_testdata_and_click_run_button() {
+testData = ExcelUtils.readExcelRow(scenario.getName(), "Register");
+    String username = testData.get("username");
+    registerPage.enterPassword(username);
+    String password = testData.get("password");
 	registerPage.enterPassword(password);
 	String confirmPassword = testData.get("confirmPassword");
 	registerPage.enterConfirmPassword(confirmPassword);
 	expectedError = testData.get("expectedError");
 	String fieldname= testData.get("fieldName");
+	System.out.println(username);
+	System.out.println(password);
+	System.out.println(confirmPassword);
+	System.out.println(fieldname);
 	registerPage.clickRegister();
 	actualError = registerPage.actualError(fieldname);
 	
 }
-@Then("the user should be able to see the error message Please fill out this field. displayed below the username input field.")
-public void the_user_should_be_able_to_see_the_error_message_please_fill_out_this_field_displayed_below_the_username_input_field() {
+
+@Then("the user should be able to see the error message Please fill out this field displayed below the empty field.")
+public void the_user_should_be_able_to_see_the_error_message_please_fill_out_this_field_displayed_below_the_empty_field() {
 	assertEquals(actualError,expectedError,"Error is not diaplayed");
 }
+
 
 
 }
