@@ -10,7 +10,7 @@ import driverfactory.DriverFactory;
 import pageobjects.HomePage;
 public class HomePageSteps {
 	
-	private static final Logger logger = LoggerFactory.getLogger(HomePageSteps.class);
+    private static final Logger logger = LoggerFactory.getLogger(HomePageSteps.class);
     private HomePage homePage =new HomePage(DriverFactory.getDriver());
     private String actualTitle;
 	
