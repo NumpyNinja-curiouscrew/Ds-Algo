@@ -8,7 +8,7 @@
 # <> (Placeholder for dynamic values)
 # "" and ## are for comments
 
-@register
+
 Feature: DS Algo Portal - Home Page and Navigation
 
   Scenario: Verify the user can open the DS Algo portal
@@ -64,8 +64,7 @@ Feature: DS Algo Portal - Home Page and Navigation
   
        
  Scenario Outline: Verify navigation to "<option>" introduction page from dropdown options after sign-in
-  Given the user is on the Home page 
-  And the user is signed in
+  Given the user is on the Home page after sign-in
   When the user selects "<option>" from the dropdown after sign-in
   Then the user should be navigated to the introduction page for "<option>"
 
@@ -80,9 +79,8 @@ Feature: DS Algo Portal - Home Page and Navigation
   
 
  Scenario Outline: Verify navigation to introduction page on clicking "<section>" Get Started button after sign-in
-    Given the user is on the Home page
-    And the user is signed in
-    When the user clicks the "<section>" Get Started button with sign-in
+    Given the user is on the Home page after sign-in
+    When the user clicks the "<section>" Get Started button after sign-in
     Then the user should be navigated to the introduction page for "<section>"
 
    Examples:

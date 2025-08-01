@@ -93,7 +93,7 @@ public class HomePage {
   
  
      public void clickDropDown(String option)  {
-    	   // example string you want to check
+    	  
     	 getDataStructureDropdown();
         	 switch (option) {
      		 case "Array":
