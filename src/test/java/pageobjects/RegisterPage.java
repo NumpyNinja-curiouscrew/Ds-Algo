@@ -1,8 +1,4 @@
 package pageobjects;
-
-
-
-
 import java.util.HashMap;
 import java.util.Map;
 import org.openqa.selenium.By;
@@ -16,9 +12,7 @@ public class RegisterPage {
     
     private WebDriver driver;
     private static final Logger logger = LoggerFactory.getLogger(RegisterPage.class);
-   
 	
-    // locators
     By usernameInput = By.id("id_username");            
     By passwordInput = By.id("id_password1");
     By confirmPasswordInput = By.id("id_password2");
@@ -27,16 +21,12 @@ public class RegisterPage {
     public RegisterPage(WebDriver driver) {
         this.driver = driver;
     }
-
-    // Field id map for validation
     private static final Map<String, String> fieldIdMap = new HashMap<>();
     static {
         fieldIdMap.put("username", "id_username");
         fieldIdMap.put("password", "id_password1");
         fieldIdMap.put("confirmPassword", "id_password2");
     }
-
-   
 
     public void enterUsername(String username) {
     	WebElement input = driver.findElement(usernameInput);
