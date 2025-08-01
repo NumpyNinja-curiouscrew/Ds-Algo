@@ -1,6 +1,7 @@
 package utils;
 
 	
+import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
@@ -14,6 +15,7 @@ import java.util.List;
 import java.util.Map;
 
 	public class ExcelUtils {
+		private static final String STRING = null;
 		public static String filePath = "src/test/resources/TestData.xlsx";
 
 	    public static List<String> getAllSheetNames(String filePath) throws IOException {
@@ -53,22 +55,57 @@ import java.util.Map;
 	        }
 	        return testData;
 	    }
-	
+	    public static List<Map<String, String>> readExcelSheet(String sheetName) {
+	        List<Map<String, String>> allTestData = new ArrayList<>();
 
-	public static String readSheetName(String name) {
-        try {
-            List<String> sheets = getAllSheetNames(filePath);
-            for (String sheetName : sheets) {
-                // Example logic: return the sheet which contains "Test"
-                if (sheetName.contains(name)) {
-                    return sheetName;
-                }
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-		return null;
-	}
+	        try (FileInputStream fis = new FileInputStream(filePath);
+	             Workbook workbook = new XSSFWorkbook(fis)) {
+
+	            Sheet sheet = workbook.getSheet(sheetName);
+	            Row header = sheet.getRow(0); // header row
+
+	            for (int i = 1; i <= sheet.getLastRowNum(); i++) {
+	                Row row = sheet.getRow(i);
+	                if (row == null) continue;
+
+	                Map<String, String> rowData = new HashMap<>();
+
+	                for (int j = 0; j < row.getLastCellNum(); j++) {
+	                    String key = header.getCell(j).getStringCellValue();
+
+	                    Cell cell = row.getCell(j);
+	                    String value = "";
+
+	                    if (cell != null) {
+	                        switch (cell.getCellType()) {
+	                            case STRING:
+	                                value = cell.getStringCellValue();
+	                                break;
+	                            case NUMERIC:
+	                                value = String.valueOf(cell.getNumericCellValue());
+	                                break;
+	                            case BOOLEAN:
+	                                value = String.valueOf(cell.getBooleanCellValue());
+	                                break;
+	                            case BLANK:
+	                            default:
+	                                value = "";
+	                        }
+	                    }
+
+	                    rowData.put(key, value.trim());
+	                }
+
+	                allTestData.add(rowData);
+	            }
+
+	        } catch (Exception e) {
+	            e.printStackTrace();
+	        }
+
+	        return allTestData;
+	    }
+
 	}
 
 

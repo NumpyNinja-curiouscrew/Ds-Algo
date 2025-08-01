@@ -25,7 +25,7 @@ public class RegisterPage {
     By passwordInput = By.id("id_password1");
     By confirmPasswordInput = By.id("id_password2");
     By registerButton = By.xpath("//*[@value='Register']");
-    
+    By errorText = By.xpath("//*[contains(@class,'alert')]");
     public RegisterPage(WebDriver driver) {
         this.driver = driver;
     }
@@ -62,8 +62,6 @@ public class RegisterPage {
         driver.findElement(registerButton).click();
     }
 
-   
-    
    public String actualError(String fieldname) {
 	   String fieldId=fieldIdMap.get(fieldname);
 	   WebDriverWait wait = new WebDriverWait(DriverFactory.getDriver(), Duration.ofSeconds(10));
@@ -75,6 +73,11 @@ public class RegisterPage {
 	return actualResult;
 	   
    }
-    
+   
+   public String errorText() {
+	    WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
+	    wait.until(ExpectedConditions.visibilityOfElementLocated(errorText));
+	    return driver.findElement(errorText).getText();
+	}
     
 }

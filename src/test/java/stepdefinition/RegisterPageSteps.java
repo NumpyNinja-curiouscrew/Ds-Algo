@@ -24,43 +24,61 @@ public class RegisterPageSteps {
     String actualError;
 	private Scenario scenario;
 	
- @Before
+	@Before
     public void beforeScenario(Scenario scenario) {
         this.scenario = scenario;
         registerPage = new RegisterPage(DriverFactory.getDriver());
+        
     }
 
-@Given("the user is on the user registration page")
-public void the_user_is_on_the_user_registration_page() {
-	homePage.getHomePage();
-	homePage.clickRegisterLink();
-}
+    @Given("the user is on the user registration page")
+    public void the_user_is_on_the_user_registration_page() {
+        logger.info("Navigating to the Home Page");
+        homePage.getHomePage();
+        logger.info("Clicking on the Register link");
+        homePage.clickRegisterLink();
+    }
 
-@When("the user enters valid testdata and click run button.")
-public void the_user_enters_valid_testdata_and_click_run_button() {
-testData = ExcelUtils.readExcelRow(scenario.getName(), "Register");
-    String username = testData.get("username");
-    registerPage.enterPassword(username);
-    String password = testData.get("password");
-	registerPage.enterPassword(password);
-	String confirmPassword = testData.get("confirmPassword");
-	registerPage.enterConfirmPassword(confirmPassword);
-	expectedError = testData.get("expectedError");
-	String fieldname= testData.get("fieldName");
-	System.out.println(username);
-	System.out.println(password);
-	System.out.println(confirmPassword);
-	System.out.println(fieldname);
-	registerPage.clickRegister();
-	actualError = registerPage.actualError(fieldname);
-	
-}
+    @When("the user enters valid testdata and click run button.")
+    public void the_user_enters_valid_testdata_and_click_run_button() {
 
-@Then("the user should be able to see the error message Please fill out this field displayed below the empty field.")
-public void the_user_should_be_able_to_see_the_error_message_please_fill_out_this_field_displayed_below_the_empty_field() {
-	assertEquals(actualError,expectedError,"Error is not diaplayed");
-}
+        testData = ExcelUtils.readExcelRow(scenario.getName(), "Register");
+        String username = testData.get("username");
+        registerPage.enterUsername(username);
+        String password = testData.get("password");
+        registerPage.enterPassword(password);
+        String confirmPassword = testData.get("confirmPassword");
+        registerPage.enterConfirmPassword(confirmPassword);
+        expectedError = testData.get("expectedError");
+        String fieldName = testData.get("fieldName");
+        registerPage.clickRegister();
+        actualError = registerPage.actualError(fieldName);
+    }
 
+    @Then("the user should be able to see the error message Please fill out this field displayed below the empty field.")
+    public void the_user_should_be_able_to_see_the_error_message_please_fill_out_this_field_displayed_below_the_empty_field() {
+        logger.info("Asserting actual error: '{}' against expected: '{}'", actualError, expectedError);
+        assertEquals(actualError, expectedError, "Error is not displayed correctly");
+    }
 
+    @When("the user enters testdata for each {string}")
+    public void the_user_enters_testdata_for_each(String scenarioName) {
+        
+        testData = ExcelUtils.readExcelRow(scenarioName, "Register1");
+        String username = testData.get("username");
+        registerPage.enterUsername(username);
+        String password = testData.get("password");
+        registerPage.enterPassword(password);
+        String confirmPassword = testData.get("confirmPassword");
+        registerPage.enterConfirmPassword(confirmPassword);
+        expectedError = testData.get("expectedResult");
+        registerPage.clickRegister();
+        actualError = registerPage.errorText();
+    }
 
+    @Then("user should able to see this expected output")
+    public void user_should_able_to_see_this_expected_output() {
+        logger.info("Asserting actual error: '{}' against expected: '{}'", actualError, expectedError);
+        assertEquals(actualError, expectedError, "Error is not displayed correctly");
+    }
 }
