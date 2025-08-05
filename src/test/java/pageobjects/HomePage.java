@@ -57,6 +57,7 @@ public class HomePage {
     }
     public void clickGetStartedButton(String buttonText) {
     	if(getGetStartedButtonText()==buttonText){
+         logger.info("Clicking on getStarted Button");
     	driver.findElement(getStartedButton).click();}
     }
 
@@ -70,6 +71,7 @@ public class HomePage {
     	 
      }
      public  void clickRegisterLink() {
+    	 logger.info("Clicking on Register Link");
     	 registerLink().click();
          
      }
@@ -77,6 +79,7 @@ public class HomePage {
          return driver.getTitle();
      }
      public void signInClick() {
+    	 logger.info("Clicking on Sign-in Link");
     	 driver.findElement(signInLink).click();
          
      }
@@ -88,12 +91,13 @@ public class HomePage {
     	 
      }
      public void getDataStructureDropdown() {
+    	 logger.info("Clicking on DataStructureDropDown");
     	 driver.findElement(dataStructureDropdown).click();
          }
   
  
      public void clickDropDown(String option)  {
-    	  
+
     	 getDataStructureDropdown();
         	 switch (option) {
      		 case "Array":

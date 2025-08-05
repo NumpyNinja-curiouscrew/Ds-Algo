@@ -15,12 +15,12 @@ Feature: DS Algo Portal - Home Page and Navigation
     Given the user has opened the browser
     When the user enters the correct DS Algo portal URL
     Then the user should land on the DS Algo portal with a "Get Started" button visible
-    
+ 
   Scenario: Verify the Home page for a user without signing in
     Given the user is on the DS Algo Portal
     When the user clicks the "Get Started" button
     Then the user should be navigated to the Data Structures Introduction page
-   
+  
  Scenario: Verify the user is able to navigate to the Register page without signing in
     Given the user is on the Home page
     When the user clicks the Register link on the homepage without Sign-in

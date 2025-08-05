@@ -82,7 +82,6 @@ public class LinkedListPageSteps {
 		@When("The user writes valid code in the Editor and clicks the Run button")
 		public void the_user_writes_valid_code_in_the_editor_and_clicks_the_run_button() {  
 			testData = ExcelUtils.readExcelRow(scenario.getName(),"tryEditor");
-			System.out.println("TestData: "+testData);
 			inputData = testData.get("Input");
 			expectedResult = testData.get("output");
 			actualResult=linkedListPage.enterData(inputData);
