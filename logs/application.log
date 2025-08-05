@@ -1,0 +1,1303 @@
+2025-08-04 07:26:53 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 07:26:54 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 07:26:54 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 07:26:56 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 07:26:56 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 07:26:56 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 07:26:56 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 10:08:18 WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2025-08-04 10:14:17 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 10:14:17 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 10:14:18 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 10:14:18 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 10:14:20 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 10:14:20 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 10:14:20 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 10:14:21 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 10:19:14 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 10:19:14 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 10:19:15 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 10:19:15 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 10:19:16 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 10:19:17 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 10:19:17 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 10:19:17 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 10:32:20 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 10:32:20 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 10:32:20 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 10:32:20 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 10:32:22 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 10:32:23 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 10:32:23 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 10:32:23 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 10:58:28 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 10:58:28 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 10:58:28 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 10:58:28 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 10:58:30 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 10:58:30 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 10:58:30 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 10:58:31 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 11:02:22 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 11:02:22 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 11:02:22 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 11:02:23 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 11:02:24 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 11:02:25 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 11:02:25 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 11:02:25 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 11:07:28 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 11:07:28 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 11:07:29 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 11:07:29 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 11:07:30 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 11:07:31 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 11:07:31 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 11:07:32 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 11:09:27 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 11:09:27 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 11:09:27 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 11:09:27 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 11:09:29 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 11:09:29 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 11:09:30 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 11:09:30 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 11:12:25 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 11:12:25 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 11:12:25 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 11:12:25 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 11:12:27 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 11:12:27 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 11:12:27 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 11:12:28 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 11:21:01 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 11:21:01 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 11:21:02 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 11:21:02 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 11:21:04 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 11:21:04 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 11:21:04 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 11:21:05 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 11:22:57 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 11:22:57 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 11:22:57 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 11:22:57 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 11:22:59 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 11:22:59 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 11:22:59 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 11:23:00 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 13:01:05 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:01:05 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:01:05 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:01:05 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:01:05 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:01:05 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:01:05 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:01:05 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:01:05 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 13:01:05 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 13:01:05 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 13:01:05 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 13:01:06 INFO  stepdefinition.HomePageSteps - Selecting 'Stack' from Data Structures dropdown without Sign-in
+2025-08-04 13:01:06 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:01:07 INFO  stepdefinition.HomePageSteps - Selecting 'Linked List' from Data Structures dropdown without Sign-in
+2025-08-04 13:01:07 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:01:08 INFO  stepdefinition.HomePageSteps - Selecting 'Array' from Data Structures dropdown without Sign-in
+2025-08-04 13:01:08 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:01:08 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 13:01:08 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 13:01:08 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 13:01:08 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:01:09 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 13:01:09 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 13:01:09 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:01:09 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:01:09 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 13:01:10 INFO  stepdefinition.HomePageSteps - Clicking on Register link without Sign-in
+2025-08-04 13:01:10 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 13:01:10 INFO  stepdefinition.HomePageSteps - Selecting 'Queue' from Data Structures dropdown without Sign-in
+2025-08-04 13:01:10 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:01:10 INFO  stepdefinition.HomePageSteps - Selecting 'Tree' from Data Structures dropdown without Sign-in
+2025-08-04 13:01:10 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:01:10 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 13:01:10 INFO  stepdefinition.HomePageSteps - Selecting 'Graph' from Data Structures dropdown without Sign-in
+2025-08-04 13:01:10 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:01:11 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 13:01:11 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 13:01:11 INFO  stepdefinition.HomePageSteps - Validating Register Page Title. Expected: Registration, Actual: null
+2025-08-04 13:01:11 INFO  stepdefinition.HomePageSteps - Navigated to Register Page successfully
+2025-08-04 13:01:11 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 13:01:11 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:01:11 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:01:11 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:01:12 INFO  stepdefinition.HomePageSteps - Clicking on Sign-in link without Sign-in
+2025-08-04 13:01:12 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:01:12 INFO  stepdefinition.HomePageSteps - Validating Sign-in Page Title. Expected: Login, Actual: null
+2025-08-04 13:01:12 INFO  stepdefinition.HomePageSteps - SignInPage opened
+2025-08-04 13:01:19 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:01:19 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:01:19 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:01:19 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:01:20 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:01:20 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:01:20 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:01:22 INFO  stepdefinition.HomePageSteps - Clicking 'Graph' Get Started button without Sign-in
+2025-08-04 13:01:22 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 13:01:22 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:01:22 INFO  stepdefinition.HomePageSteps - Clicking 'Stack' Get Started button without Sign-in
+2025-08-04 13:01:22 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 13:01:22 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:01:22 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:01:23 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:01:23 INFO  stepdefinition.HomePageSteps - Selecting 'Linked List' from dropdown after Sign-in
+2025-08-04 13:01:23 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:01:24 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 13:01:24 INFO  stepdefinition.HomePageSteps - Clicking 'Linked List' Get Started button without Sign-in
+2025-08-04 13:01:24 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 13:01:24 INFO  stepdefinition.HomePageSteps - Clicking 'Array' Get Started button without Sign-in
+2025-08-04 13:01:24 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 13:01:24 INFO  pageobjects.HomePage - Navigated to page with title: Linked List
+2025-08-04 13:01:24 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Linked List'
+2025-08-04 13:01:24 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Linked List'
+2025-08-04 13:01:24 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:01:25 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:01:25 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:01:25 INFO  stepdefinition.HomePageSteps - Clicking 'Queue' Get Started button without Sign-in
+2025-08-04 13:01:25 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 13:01:26 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:01:26 INFO  stepdefinition.HomePageSteps - Clicking 'Tree' Get Started button without Sign-in
+2025-08-04 13:01:26 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 13:01:26 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:01:26 INFO  stepdefinition.HomePageSteps - Selecting 'Stack' from dropdown after Sign-in
+2025-08-04 13:01:26 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:01:27 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:01:28 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 13:06:00 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:06:00 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:06:00 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:06:00 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 13:06:01 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:06:01 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:06:01 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:06:01 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:06:01 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 13:06:01 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:06:01 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 13:06:03 INFO  stepdefinition.HomePageSteps - Selecting 'Linked List' from Data Structures dropdown without Sign-in
+2025-08-04 13:06:03 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:06:03 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 13:06:03 INFO  stepdefinition.HomePageSteps - Selecting 'Tree' from Data Structures dropdown without Sign-in
+2025-08-04 13:06:03 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:06:03 INFO  stepdefinition.HomePageSteps - Selecting 'Queue' from Data Structures dropdown without Sign-in
+2025-08-04 13:06:03 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:06:03 INFO  stepdefinition.HomePageSteps - Selecting 'Array' from Data Structures dropdown without Sign-in
+2025-08-04 13:06:03 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:06:03 INFO  stepdefinition.HomePageSteps - Clicking on Register link without Sign-in
+2025-08-04 13:06:03 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 13:06:03 INFO  stepdefinition.HomePageSteps - Selecting 'Graph' from Data Structures dropdown without Sign-in
+2025-08-04 13:06:03 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:06:04 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:06:04 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 13:06:04 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 13:06:04 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 13:06:05 INFO  stepdefinition.HomePageSteps - Clicking on Sign-in link without Sign-in
+2025-08-04 13:06:05 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:06:05 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 13:06:05 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 13:06:05 INFO  stepdefinition.HomePageSteps - Selecting 'Stack' from Data Structures dropdown without Sign-in
+2025-08-04 13:06:05 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:06:05 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 13:06:05 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:06:05 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 13:06:05 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:06:05 INFO  stepdefinition.HomePageSteps - Validating Register Page Title. Expected: Registration, Actual: null
+2025-08-04 13:06:06 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 13:06:06 INFO  stepdefinition.HomePageSteps - Navigated to Register Page successfully
+2025-08-04 13:06:06 INFO  stepdefinition.HomePageSteps - Validating Sign-in Page Title. Expected: Login, Actual: null
+2025-08-04 13:06:06 INFO  stepdefinition.HomePageSteps - SignInPage opened
+2025-08-04 13:06:06 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:06:06 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:06:06 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:06:07 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 13:06:12 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:06:12 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:06:13 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:06:14 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:06:14 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:06:14 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:06:14 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:06:15 INFO  stepdefinition.HomePageSteps - Clicking 'Data Structures-Introduction' Get Started button without Sign-in
+2025-08-04 13:06:15 INFO  pageobjects.HomePage - User click on Data Structures-Introduction
+2025-08-04 13:06:15 INFO  stepdefinition.HomePageSteps - Clicking 'Array' Get Started button without Sign-in
+2025-08-04 13:06:15 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 13:06:15 INFO  stepdefinition.HomePageSteps - Clicking 'Tree' Get Started button without Sign-in
+2025-08-04 13:06:15 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 13:06:16 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:06:16 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:06:16 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:06:16 INFO  stepdefinition.HomePageSteps - Clicking 'Stack' Get Started button without Sign-in
+2025-08-04 13:06:16 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 13:06:16 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:06:16 INFO  stepdefinition.HomePageSteps - Clicking 'Graph' Get Started button without Sign-in
+2025-08-04 13:06:16 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 13:06:16 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:06:16 INFO  stepdefinition.HomePageSteps - Clicking 'Linked List' Get Started button without Sign-in
+2025-08-04 13:06:16 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 13:06:17 INFO  stepdefinition.HomePageSteps - Clicking 'Queue' Get Started button without Sign-in
+2025-08-04 13:06:17 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 13:06:18 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:06:18 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:06:18 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:06:18 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:06:19 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:06:19 INFO  stepdefinition.HomePageSteps - Selecting 'Array' from dropdown after Sign-in
+2025-08-04 13:06:19 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:06:21 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:06:21 INFO  stepdefinition.HomePageSteps - Selecting 'Linked List' from dropdown after Sign-in
+2025-08-04 13:06:21 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:06:21 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 13:06:21 INFO  pageobjects.HomePage - Navigated to page with title: Linked List
+2025-08-04 13:06:21 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Linked List'
+2025-08-04 13:06:21 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Linked List'
+2025-08-04 13:06:22 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:06:23 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 13:06:24 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:06:25 INFO  stepdefinition.HomePageSteps - Selecting 'Stack' from dropdown after Sign-in
+2025-08-04 13:06:25 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:06:25 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 13:06:26 INFO  pageobjects.HomePage - Navigated to page with title: Stack
+2025-08-04 13:06:26 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Stack'
+2025-08-04 13:06:26 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Stack'
+2025-08-04 13:06:27 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:06:27 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:06:27 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:06:30 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:06:30 INFO  stepdefinition.HomePageSteps - Selecting 'Graph' from dropdown after Sign-in
+2025-08-04 13:06:30 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:06:30 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:06:30 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:06:30 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 13:06:30 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:06:30 INFO  stepdefinition.HomePageSteps - Selecting 'Queue' from dropdown after Sign-in
+2025-08-04 13:06:30 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:06:30 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:06:31 INFO  pageobjects.HomePage - Navigated to page with title: Graph
+2025-08-04 13:06:31 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Graph'
+2025-08-04 13:06:31 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Graph'
+2025-08-04 13:06:31 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 13:06:31 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:06:32 INFO  pageobjects.HomePage - Navigated to page with title: Queue
+2025-08-04 13:06:32 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Queue'
+2025-08-04 13:06:32 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Queue'
+2025-08-04 13:06:32 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:06:32 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:06:32 INFO  stepdefinition.HomePageSteps - Selecting 'Tree' from dropdown after Sign-in
+2025-08-04 13:06:32 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:06:33 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:06:33 INFO  stepdefinition.HomePageSteps - Clicking 'Data Structures-Introduction' Get Started button after Sign-in
+2025-08-04 13:06:33 INFO  pageobjects.HomePage - User click on Data Structures-Introduction
+2025-08-04 13:06:33 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:06:33 INFO  stepdefinition.HomePageSteps - Clicking 'Linked List' Get Started button after Sign-in
+2025-08-04 13:06:33 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 13:06:33 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:06:33 INFO  pageobjects.HomePage - Navigated to page with title: Data Structures-Introduction
+2025-08-04 13:06:33 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Data Structures-Introduction'
+2025-08-04 13:06:33 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Data Structures-Introduction'
+2025-08-04 13:06:33 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:06:33 INFO  stepdefinition.HomePageSteps - Clicking 'Stack' Get Started button after Sign-in
+2025-08-04 13:06:33 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 13:06:34 INFO  pageobjects.HomePage - Navigated to page with title: Stack
+2025-08-04 13:06:34 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Stack'
+2025-08-04 13:06:34 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Stack'
+2025-08-04 13:06:34 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 13:06:34 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:06:34 INFO  stepdefinition.HomePageSteps - Clicking 'Queue' Get Started button after Sign-in
+2025-08-04 13:06:34 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 13:06:34 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:06:34 INFO  stepdefinition.HomePageSteps - Clicking 'Array' Get Started button after Sign-in
+2025-08-04 13:06:34 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 13:06:35 INFO  pageobjects.HomePage - Navigated to page with title: Tree
+2025-08-04 13:06:35 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Tree'
+2025-08-04 13:06:35 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Tree'
+2025-08-04 13:06:35 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:06:35 INFO  stepdefinition.HomePageSteps - Clicking 'Tree' Get Started button after Sign-in
+2025-08-04 13:06:35 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 13:06:36 INFO  pageobjects.HomePage - Navigated to page with title: Array
+2025-08-04 13:06:36 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Array'
+2025-08-04 13:06:36 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Array'
+2025-08-04 13:06:36 INFO  pageobjects.HomePage - Navigated to page with title: Tree
+2025-08-04 13:06:36 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Tree'
+2025-08-04 13:06:36 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Tree'
+2025-08-04 13:06:38 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:06:39 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:06:39 INFO  stepdefinition.HomePageSteps - Clicking 'Graph' Get Started button after Sign-in
+2025-08-04 13:06:39 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 13:06:39 INFO  pageobjects.HomePage - Navigated to page with title: Graph
+2025-08-04 13:06:39 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Graph'
+2025-08-04 13:06:39 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Graph'
+2025-08-04 13:13:31 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 13:13:31 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:13:31 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:13:31 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:13:31 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:13:31 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:13:31 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 13:13:31 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 13:13:31 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:13:31 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:13:31 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:13:32 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 13:13:33 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 13:13:33 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 13:13:33 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 13:13:34 INFO  stepdefinition.HomePageSteps - Clicking on Sign-in link without Sign-in
+2025-08-04 13:13:34 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:13:34 INFO  stepdefinition.HomePageSteps - Selecting 'Tree' from Data Structures dropdown without Sign-in
+2025-08-04 13:13:34 INFO  stepdefinition.HomePageSteps - Selecting 'Stack' from Data Structures dropdown without Sign-in
+2025-08-04 13:13:34 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:13:34 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:13:34 INFO  stepdefinition.HomePageSteps - Selecting 'Array' from Data Structures dropdown without Sign-in
+2025-08-04 13:13:34 INFO  stepdefinition.HomePageSteps - Selecting 'Linked List' from Data Structures dropdown without Sign-in
+2025-08-04 13:13:34 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:13:34 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:13:34 INFO  stepdefinition.HomePageSteps - Selecting 'Queue' from Data Structures dropdown without Sign-in
+2025-08-04 13:13:34 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:13:34 INFO  stepdefinition.HomePageSteps - Clicking on Register link without Sign-in
+2025-08-04 13:13:34 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 13:13:35 INFO  stepdefinition.HomePageSteps - Selecting 'Graph' from Data Structures dropdown without Sign-in
+2025-08-04 13:13:35 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:13:35 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 13:13:35 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 13:13:35 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 13:13:35 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 13:13:35 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 13:13:35 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 13:13:35 INFO  stepdefinition.HomePageSteps - Validating Sign-in Page Title. Expected: Login, Actual: null
+2025-08-04 13:13:35 INFO  stepdefinition.HomePageSteps - SignInPage opened
+2025-08-04 13:13:35 INFO  stepdefinition.HomePageSteps - Validating Register Page Title. Expected: Registration, Actual: null
+2025-08-04 13:13:35 INFO  stepdefinition.HomePageSteps - Navigated to Register Page successfully
+2025-08-04 13:13:35 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 13:13:36 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:13:36 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:13:36 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:13:36 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:13:36 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:13:36 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:13:43 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:13:43 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:13:44 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:13:44 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:13:44 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:13:44 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:13:45 INFO  stepdefinition.HomePageSteps - Clicking 'Tree' Get Started button without Sign-in
+2025-08-04 13:13:45 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 13:13:45 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:13:46 INFO  stepdefinition.HomePageSteps - Clicking 'Data Structures-Introduction' Get Started button without Sign-in
+2025-08-04 13:13:46 INFO  pageobjects.HomePage - User click on Data Structures-Introduction
+2025-08-04 13:13:46 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:13:46 INFO  stepdefinition.HomePageSteps - Clicking 'Stack' Get Started button without Sign-in
+2025-08-04 13:13:46 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 13:13:47 INFO  stepdefinition.HomePageSteps - Clicking 'Queue' Get Started button without Sign-in
+2025-08-04 13:13:47 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 13:13:47 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:13:47 INFO  stepdefinition.HomePageSteps - Clicking 'Array' Get Started button without Sign-in
+2025-08-04 13:13:47 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 13:13:47 INFO  stepdefinition.HomePageSteps - Clicking 'Linked List' Get Started button without Sign-in
+2025-08-04 13:13:47 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 13:13:48 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:13:48 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:13:48 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:13:48 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:13:48 INFO  stepdefinition.HomePageSteps - Clicking 'Graph' Get Started button without Sign-in
+2025-08-04 13:13:48 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 13:13:48 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:13:49 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:13:49 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:13:50 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:13:50 INFO  stepdefinition.HomePageSteps - Selecting 'Linked List' from dropdown after Sign-in
+2025-08-04 13:13:50 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:13:50 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:13:50 INFO  stepdefinition.HomePageSteps - Selecting 'Array' from dropdown after Sign-in
+2025-08-04 13:13:50 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:13:50 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:13:50 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 13:13:50 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 13:13:50 INFO  pageobjects.HomePage - Navigated to page with title: Array
+2025-08-04 13:13:50 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Array'
+2025-08-04 13:13:50 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Array'
+2025-08-04 13:13:51 INFO  pageobjects.HomePage - Navigated to page with title: Linked List
+2025-08-04 13:13:51 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Linked List'
+2025-08-04 13:13:51 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Linked List'
+2025-08-04 13:13:51 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:13:51 INFO  stepdefinition.HomePageSteps - Selecting 'Stack' from dropdown after Sign-in
+2025-08-04 13:13:51 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:13:51 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 13:13:52 INFO  pageobjects.HomePage - Navigated to page with title: Stack
+2025-08-04 13:13:52 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Stack'
+2025-08-04 13:13:52 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Stack'
+2025-08-04 13:13:56 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:13:59 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:13:59 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:13:59 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:13:59 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:14:01 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:14:01 INFO  stepdefinition.HomePageSteps - Selecting 'Queue' from dropdown after Sign-in
+2025-08-04 13:14:01 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:14:01 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:14:01 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 13:14:02 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:14:02 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:14:02 INFO  stepdefinition.HomePageSteps - Selecting 'Graph' from dropdown after Sign-in
+2025-08-04 13:14:02 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:14:02 INFO  stepdefinition.HomePageSteps - Clicking 'Array' Get Started button after Sign-in
+2025-08-04 13:14:02 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 13:14:02 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:14:02 INFO  stepdefinition.HomePageSteps - Selecting 'Tree' from dropdown after Sign-in
+2025-08-04 13:14:02 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:14:02 INFO  pageobjects.HomePage - Navigated to page with title: Queue
+2025-08-04 13:14:02 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Queue'
+2025-08-04 13:14:02 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Queue'
+2025-08-04 13:14:03 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:14:03 INFO  stepdefinition.HomePageSteps - Clicking 'Data Structures-Introduction' Get Started button after Sign-in
+2025-08-04 13:14:03 INFO  pageobjects.HomePage - User click on Data Structures-Introduction
+2025-08-04 13:14:03 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 13:14:03 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 13:14:03 INFO  pageobjects.HomePage - Navigated to page with title: Array
+2025-08-04 13:14:03 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Array'
+2025-08-04 13:14:03 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Array'
+2025-08-04 13:14:03 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:14:03 INFO  pageobjects.HomePage - Navigated to page with title: Data Structures-Introduction
+2025-08-04 13:14:03 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Data Structures-Introduction'
+2025-08-04 13:14:03 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Data Structures-Introduction'
+2025-08-04 13:14:03 INFO  pageobjects.HomePage - Navigated to page with title: Graph
+2025-08-04 13:14:03 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Graph'
+2025-08-04 13:14:03 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Graph'
+2025-08-04 13:14:04 INFO  pageobjects.HomePage - Navigated to page with title: Tree
+2025-08-04 13:14:04 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Tree'
+2025-08-04 13:14:04 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Tree'
+2025-08-04 13:14:04 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:14:04 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:14:04 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:14:05 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:14:05 INFO  stepdefinition.HomePageSteps - Clicking 'Graph' Get Started button after Sign-in
+2025-08-04 13:14:05 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 13:14:06 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:14:06 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:14:06 INFO  stepdefinition.HomePageSteps - Clicking 'Queue' Get Started button after Sign-in
+2025-08-04 13:14:06 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 13:14:06 INFO  stepdefinition.HomePageSteps - Clicking 'Tree' Get Started button after Sign-in
+2025-08-04 13:14:06 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 13:14:06 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:14:06 INFO  stepdefinition.HomePageSteps - Clicking 'Stack' Get Started button after Sign-in
+2025-08-04 13:14:06 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 13:14:06 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 13:14:06 INFO  stepdefinition.HomePageSteps - Clicking 'Linked List' Get Started button after Sign-in
+2025-08-04 13:14:06 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 13:14:06 INFO  pageobjects.HomePage - Navigated to page with title: Graph
+2025-08-04 13:14:06 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Graph'
+2025-08-04 13:14:06 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Graph'
+2025-08-04 13:14:06 INFO  pageobjects.HomePage - Navigated to page with title: Queue
+2025-08-04 13:14:06 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Queue'
+2025-08-04 13:14:06 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Queue'
+2025-08-04 13:14:06 INFO  pageobjects.HomePage - Navigated to page with title: Stack
+2025-08-04 13:14:06 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Stack'
+2025-08-04 13:14:06 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Stack'
+2025-08-04 13:14:06 INFO  pageobjects.HomePage - Navigated to page with title: Linked List
+2025-08-04 13:14:06 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Linked List'
+2025-08-04 13:14:06 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Linked List'
+2025-08-04 13:14:06 INFO  pageobjects.HomePage - Navigated to page with title: Tree
+2025-08-04 13:14:06 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Tree'
+2025-08-04 13:14:06 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Tree'
+2025-08-04 13:16:12 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:16:12 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:16:12 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 13:16:12 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:16:12 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:16:12 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:16:12 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:16:12 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 13:16:12 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:16:12 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:16:12 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 13:16:14 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 13:16:14 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 13:16:14 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 13:16:14 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 13:16:15 INFO  stepdefinition.HomePageSteps - Clicking on Sign-in link without Sign-in
+2025-08-04 13:16:15 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 13:16:15 INFO  stepdefinition.HomePageSteps - Selecting 'Array' from Data Structures dropdown without Sign-in
+2025-08-04 13:16:15 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:16:16 INFO  stepdefinition.HomePageSteps - Selecting 'Linked List' from Data Structures dropdown without Sign-in
+2025-08-04 13:16:16 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 13:16:16 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:16:16 INFO  stepdefinition.HomePageSteps - Clicking on Register link without Sign-in
+2025-08-04 13:16:16 INFO  stepdefinition.HomePageSteps - Selecting 'Tree' from Data Structures dropdown without Sign-in
+2025-08-04 13:16:16 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 13:16:16 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:16:16 INFO  stepdefinition.HomePageSteps - Selecting 'Queue' from Data Structures dropdown without Sign-in
+2025-08-04 13:16:16 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:16:16 INFO  stepdefinition.HomePageSteps - Selecting 'Stack' from Data Structures dropdown without Sign-in
+2025-08-04 13:16:16 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:16:16 INFO  stepdefinition.HomePageSteps - Selecting 'Graph' from Data Structures dropdown without Sign-in
+2025-08-04 13:16:16 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 13:16:16 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 13:16:16 INFO  stepdefinition.HomePageSteps - Validating Sign-in Page Title. Expected: Login, Actual: null
+2025-08-04 13:16:16 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 13:16:16 INFO  stepdefinition.HomePageSteps - SignInPage opened
+2025-08-04 13:16:16 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 13:16:16 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 13:16:16 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 13:16:16 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 13:16:16 INFO  stepdefinition.HomePageSteps - Validating Register Page Title. Expected: Registration, Actual: null
+2025-08-04 13:16:16 INFO  stepdefinition.HomePageSteps - Navigated to Register Page successfully
+2025-08-04 13:16:17 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:16:17 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:16:17 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:16:17 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:16:17 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:16:17 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:16:20 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:16:23 INFO  stepdefinition.HomePageSteps - Clicking 'Data Structures-Introduction' Get Started button without Sign-in
+2025-08-04 13:16:23 INFO  pageobjects.HomePage - User click on Data Structures-Introduction
+2025-08-04 13:16:23 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:16:24 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 13:16:24 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:16:25 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:16:25 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:16:25 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 13:16:25 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 15:26:17 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 15:26:17 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 15:26:17 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 15:26:17 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 15:26:17 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 15:26:17 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 15:26:17 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 15:26:17 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 15:26:17 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 15:26:18 INFO  stepdefinition.HomePageSteps - Clicking on Sign-in link without Sign-in
+2025-08-04 15:26:18 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 15:26:18 INFO  stepdefinition.HomePageSteps - Clicking on Register link without Sign-in
+2025-08-04 15:26:18 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 15:26:18 INFO  stepdefinition.HomePageSteps - Validating Sign-in Page Title. Expected: Login, Actual: null
+2025-08-04 15:26:18 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 15:26:18 INFO  stepdefinition.HomePageSteps - SignInPage opened
+2025-08-04 15:26:18 INFO  stepdefinition.HomePageSteps - Validating Register Page Title. Expected: Registration, Actual: null
+2025-08-04 15:26:18 INFO  stepdefinition.HomePageSteps - Navigated to Register Page successfully
+2025-08-04 15:49:01 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 15:49:01 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 15:49:02 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 15:49:02 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 15:49:06 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 15:49:06 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 15:49:06 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 15:49:07 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 15:49:11 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 15:49:12 INFO  stepdefinition.HomePageSteps - Clicking on Register link without Sign-in
+2025-08-04 15:49:12 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 15:49:12 INFO  stepdefinition.HomePageSteps - Validating Register Page Title. Expected: Registration, Actual: null
+2025-08-04 15:49:12 INFO  stepdefinition.HomePageSteps - Navigated to Register Page successfully
+2025-08-04 15:49:16 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 15:49:17 INFO  stepdefinition.HomePageSteps - Clicking on Sign-in link without Sign-in
+2025-08-04 15:49:17 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 15:49:17 INFO  stepdefinition.HomePageSteps - Validating Sign-in Page Title. Expected: Login, Actual: null
+2025-08-04 15:49:17 INFO  stepdefinition.HomePageSteps - SignInPage opened
+2025-08-04 15:51:54 WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2025-08-04 15:52:29 WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2025-08-04 16:06:24 WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2025-08-04 16:06:57 WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2025-08-04 16:07:30 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 16:07:30 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 16:07:30 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 16:07:30 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 16:07:34 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 16:07:34 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 16:07:35 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 16:07:35 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 16:07:39 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:07:40 INFO  stepdefinition.HomePageSteps - Clicking on Register link without Sign-in
+2025-08-04 16:07:40 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 16:07:40 INFO  stepdefinition.HomePageSteps - Validating Register Page Title. Expected: Registration, Actual: null
+2025-08-04 16:07:40 INFO  stepdefinition.HomePageSteps - Navigated to Register Page successfully
+2025-08-04 16:07:44 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:07:45 INFO  stepdefinition.HomePageSteps - Clicking on Sign-in link without Sign-in
+2025-08-04 16:07:45 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:07:45 INFO  stepdefinition.HomePageSteps - Validating Sign-in Page Title. Expected: Login, Actual: null
+2025-08-04 16:07:45 INFO  stepdefinition.HomePageSteps - SignInPage opened
+2025-08-04 16:09:08 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 16:09:08 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 16:09:08 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 16:09:08 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 16:09:12 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 16:09:13 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 16:09:13 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 16:09:13 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 16:09:17 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:09:18 INFO  stepdefinition.HomePageSteps - Clicking on Register link without Sign-in
+2025-08-04 16:09:18 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 16:09:18 INFO  stepdefinition.HomePageSteps - Validating Register Page Title. Expected: Registration, Actual: null
+2025-08-04 16:09:18 INFO  stepdefinition.HomePageSteps - Navigated to Register Page successfully
+2025-08-04 16:09:22 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:09:23 INFO  stepdefinition.HomePageSteps - Clicking on Sign-in link without Sign-in
+2025-08-04 16:09:23 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:09:23 INFO  stepdefinition.HomePageSteps - Validating Sign-in Page Title. Expected: Login, Actual: null
+2025-08-04 16:09:23 INFO  stepdefinition.HomePageSteps - SignInPage opened
+2025-08-04 16:09:27 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:09:28 INFO  stepdefinition.HomePageSteps - Selecting 'Array' from Data Structures dropdown without Sign-in
+2025-08-04 16:09:28 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:09:28 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 16:09:28 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:09:32 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:09:33 INFO  stepdefinition.HomePageSteps - Selecting 'Linked List' from Data Structures dropdown without Sign-in
+2025-08-04 16:09:33 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:09:33 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 16:09:33 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:09:37 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:09:38 INFO  stepdefinition.HomePageSteps - Selecting 'Stack' from Data Structures dropdown without Sign-in
+2025-08-04 16:09:38 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:09:38 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 16:09:38 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:09:42 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:09:43 INFO  stepdefinition.HomePageSteps - Selecting 'Queue' from Data Structures dropdown without Sign-in
+2025-08-04 16:09:43 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:09:43 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 16:09:43 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:09:47 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:09:48 INFO  stepdefinition.HomePageSteps - Selecting 'Tree' from Data Structures dropdown without Sign-in
+2025-08-04 16:09:48 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:09:48 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 16:09:48 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:09:52 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:09:53 INFO  stepdefinition.HomePageSteps - Selecting 'Graph' from Data Structures dropdown without Sign-in
+2025-08-04 16:09:53 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:09:53 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 16:09:54 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:09:57 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:09:58 INFO  stepdefinition.HomePageSteps - Clicking 'Data Structures-Introduction' Get Started button without Sign-in
+2025-08-04 16:09:58 INFO  pageobjects.HomePage - User click on Data Structures-Introduction
+2025-08-04 16:09:59 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:10:02 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:10:03 INFO  stepdefinition.HomePageSteps - Clicking 'Array' Get Started button without Sign-in
+2025-08-04 16:10:03 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 16:10:04 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:10:08 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:10:08 INFO  stepdefinition.HomePageSteps - Clicking 'Linked List' Get Started button without Sign-in
+2025-08-04 16:10:08 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 16:10:09 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:10:13 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:10:13 INFO  stepdefinition.HomePageSteps - Clicking 'Stack' Get Started button without Sign-in
+2025-08-04 16:10:13 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 16:10:14 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:10:18 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:10:19 INFO  stepdefinition.HomePageSteps - Clicking 'Queue' Get Started button without Sign-in
+2025-08-04 16:10:19 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 16:10:19 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:10:23 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:10:23 INFO  stepdefinition.HomePageSteps - Clicking 'Tree' Get Started button without Sign-in
+2025-08-04 16:10:23 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 16:10:24 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:10:28 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:10:29 INFO  stepdefinition.HomePageSteps - Clicking 'Graph' Get Started button without Sign-in
+2025-08-04 16:10:29 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 16:10:29 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:10:33 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:10:34 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:10:34 INFO  stepdefinition.HomePageSteps - Selecting 'Array' from dropdown after Sign-in
+2025-08-04 16:10:34 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:10:34 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 16:10:34 INFO  pageobjects.HomePage - Navigated to page with title: Array
+2025-08-04 16:10:34 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Array'
+2025-08-04 16:10:34 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Array'
+2025-08-04 16:10:39 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:10:40 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:10:40 INFO  stepdefinition.HomePageSteps - Selecting 'Linked List' from dropdown after Sign-in
+2025-08-04 16:10:40 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:10:40 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 16:10:40 INFO  pageobjects.HomePage - Navigated to page with title: Linked List
+2025-08-04 16:10:40 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Linked List'
+2025-08-04 16:10:40 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Linked List'
+2025-08-04 16:10:44 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:10:45 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:10:45 INFO  stepdefinition.HomePageSteps - Selecting 'Stack' from dropdown after Sign-in
+2025-08-04 16:10:45 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:10:45 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 16:10:46 INFO  pageobjects.HomePage - Navigated to page with title: Stack
+2025-08-04 16:10:46 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Stack'
+2025-08-04 16:10:46 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Stack'
+2025-08-04 16:10:50 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:10:51 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:10:51 INFO  stepdefinition.HomePageSteps - Selecting 'Queue' from dropdown after Sign-in
+2025-08-04 16:10:51 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:10:51 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 16:10:51 INFO  pageobjects.HomePage - Navigated to page with title: Queue
+2025-08-04 16:10:51 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Queue'
+2025-08-04 16:10:51 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Queue'
+2025-08-04 16:10:56 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:10:57 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:10:57 INFO  stepdefinition.HomePageSteps - Selecting 'Tree' from dropdown after Sign-in
+2025-08-04 16:10:57 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:10:57 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 16:10:57 INFO  pageobjects.HomePage - Navigated to page with title: Tree
+2025-08-04 16:10:57 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Tree'
+2025-08-04 16:10:57 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Tree'
+2025-08-04 16:11:01 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:11:02 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:11:02 INFO  stepdefinition.HomePageSteps - Selecting 'Graph' from dropdown after Sign-in
+2025-08-04 16:11:02 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:11:03 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 16:11:03 INFO  pageobjects.HomePage - Navigated to page with title: Graph
+2025-08-04 16:11:03 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Graph'
+2025-08-04 16:11:03 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Graph'
+2025-08-04 16:11:07 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:11:08 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:11:08 INFO  stepdefinition.HomePageSteps - Clicking 'Data Structures-Introduction' Get Started button after Sign-in
+2025-08-04 16:11:08 INFO  pageobjects.HomePage - User click on Data Structures-Introduction
+2025-08-04 16:11:08 INFO  pageobjects.HomePage - Navigated to page with title: Data Structures-Introduction
+2025-08-04 16:11:08 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Data Structures-Introduction'
+2025-08-04 16:11:08 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Data Structures-Introduction'
+2025-08-04 16:11:13 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:11:13 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:11:13 INFO  stepdefinition.HomePageSteps - Clicking 'Array' Get Started button after Sign-in
+2025-08-04 16:11:13 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 16:11:14 INFO  pageobjects.HomePage - Navigated to page with title: Array
+2025-08-04 16:11:14 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Array'
+2025-08-04 16:11:14 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Array'
+2025-08-04 16:11:18 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:11:19 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:11:19 INFO  stepdefinition.HomePageSteps - Clicking 'Linked List' Get Started button after Sign-in
+2025-08-04 16:11:19 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 16:11:19 INFO  pageobjects.HomePage - Navigated to page with title: Linked List
+2025-08-04 16:11:19 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Linked List'
+2025-08-04 16:11:19 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Linked List'
+2025-08-04 16:11:24 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:11:25 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:11:25 INFO  stepdefinition.HomePageSteps - Clicking 'Stack' Get Started button after Sign-in
+2025-08-04 16:11:25 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 16:11:25 INFO  pageobjects.HomePage - Navigated to page with title: Stack
+2025-08-04 16:11:25 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Stack'
+2025-08-04 16:11:25 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Stack'
+2025-08-04 16:11:30 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:11:30 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:11:30 INFO  stepdefinition.HomePageSteps - Clicking 'Queue' Get Started button after Sign-in
+2025-08-04 16:11:30 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 16:11:31 INFO  pageobjects.HomePage - Navigated to page with title: Queue
+2025-08-04 16:11:31 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Queue'
+2025-08-04 16:11:31 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Queue'
+2025-08-04 16:11:35 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:11:36 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:11:36 INFO  stepdefinition.HomePageSteps - Clicking 'Tree' Get Started button after Sign-in
+2025-08-04 16:11:36 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 16:11:36 INFO  pageobjects.HomePage - Navigated to page with title: Tree
+2025-08-04 16:11:36 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Tree'
+2025-08-04 16:11:36 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Tree'
+2025-08-04 16:11:41 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:11:42 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:11:42 INFO  stepdefinition.HomePageSteps - Clicking 'Graph' Get Started button after Sign-in
+2025-08-04 16:11:42 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 16:11:42 INFO  pageobjects.HomePage - Navigated to page with title: Graph
+2025-08-04 16:11:42 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Graph'
+2025-08-04 16:11:42 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Graph'
+2025-08-04 16:22:17 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 16:22:17 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 16:22:17 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 16:22:17 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 16:22:19 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 16:22:19 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 16:22:19 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 16:22:20 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 16:22:21 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:22:22 INFO  stepdefinition.HomePageSteps - Clicking on Register link without Sign-in
+2025-08-04 16:22:22 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 16:22:22 INFO  stepdefinition.HomePageSteps - Validating Register Page Title. Expected: Registration, Actual: null
+2025-08-04 16:22:22 INFO  stepdefinition.HomePageSteps - Navigated to Register Page successfully
+2025-08-04 16:22:24 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:22:25 INFO  stepdefinition.HomePageSteps - Clicking on Sign-in link without Sign-in
+2025-08-04 16:22:25 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:22:25 INFO  stepdefinition.HomePageSteps - Validating Sign-in Page Title. Expected: Login, Actual: null
+2025-08-04 16:22:25 INFO  stepdefinition.HomePageSteps - SignInPage opened
+2025-08-04 16:22:59 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:22:59 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:22:59 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:22:59 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:22:59 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:22:59 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:22:59 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 16:22:59 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 16:22:59 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:22:59 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 16:23:00 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:23:00 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 16:23:01 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 16:23:01 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 16:23:01 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 16:23:02 INFO  stepdefinition.HomePageSteps - Selecting 'Queue' from Data Structures dropdown without Sign-in
+2025-08-04 16:23:02 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:23:02 INFO  stepdefinition.HomePageSteps - Selecting 'Stack' from Data Structures dropdown without Sign-in
+2025-08-04 16:23:02 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:23:02 INFO  stepdefinition.HomePageSteps - Selecting 'Linked List' from Data Structures dropdown without Sign-in
+2025-08-04 16:23:02 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:23:02 INFO  stepdefinition.HomePageSteps - Selecting 'Array' from Data Structures dropdown without Sign-in
+2025-08-04 16:23:02 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:23:02 INFO  stepdefinition.HomePageSteps - Selecting 'Tree' from Data Structures dropdown without Sign-in
+2025-08-04 16:23:02 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:23:02 INFO  stepdefinition.HomePageSteps - Selecting 'Graph' from Data Structures dropdown without Sign-in
+2025-08-04 16:23:02 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:23:02 INFO  stepdefinition.HomePageSteps - Clicking on Sign-in link without Sign-in
+2025-08-04 16:23:02 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:23:02 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 16:23:02 INFO  stepdefinition.HomePageSteps - Clicking on Register link without Sign-in
+2025-08-04 16:23:02 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 16:23:02 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 16:23:02 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 16:23:02 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 16:23:02 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 16:23:02 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 16:23:03 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 16:23:03 INFO  stepdefinition.HomePageSteps - Validating Sign-in Page Title. Expected: Login, Actual: null
+2025-08-04 16:23:03 INFO  stepdefinition.HomePageSteps - SignInPage opened
+2025-08-04 16:23:03 INFO  stepdefinition.HomePageSteps - Validating Register Page Title. Expected: Registration, Actual: null
+2025-08-04 16:23:03 INFO  stepdefinition.HomePageSteps - Navigated to Register Page successfully
+2025-08-04 16:23:03 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:23:03 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:23:03 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:23:03 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:23:03 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:23:03 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:23:08 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:23:09 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:23:10 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:23:10 INFO  stepdefinition.HomePageSteps - Clicking 'Data Structures-Introduction' Get Started button without Sign-in
+2025-08-04 16:23:10 INFO  pageobjects.HomePage - User click on Data Structures-Introduction
+2025-08-04 16:23:10 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:23:10 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:23:10 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:23:10 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 16:23:11 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:23:12 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:23:13 INFO  stepdefinition.HomePageSteps - Clicking 'Tree' Get Started button without Sign-in
+2025-08-04 16:23:13 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 16:23:13 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:23:13 INFO  stepdefinition.HomePageSteps - Clicking 'Stack' Get Started button without Sign-in
+2025-08-04 16:23:13 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 16:23:13 INFO  stepdefinition.HomePageSteps - Clicking 'Array' Get Started button without Sign-in
+2025-08-04 16:23:13 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 16:23:13 INFO  stepdefinition.HomePageSteps - Clicking 'Linked List' Get Started button without Sign-in
+2025-08-04 16:23:13 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 16:23:13 INFO  stepdefinition.HomePageSteps - Clicking 'Graph' Get Started button without Sign-in
+2025-08-04 16:23:13 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 16:23:13 INFO  stepdefinition.HomePageSteps - Clicking 'Queue' Get Started button without Sign-in
+2025-08-04 16:23:13 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 16:23:13 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:23:13 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:23:14 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:23:14 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:23:14 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:23:14 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:23:14 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 16:23:15 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:23:15 INFO  stepdefinition.HomePageSteps - Selecting 'Linked List' from dropdown after Sign-in
+2025-08-04 16:23:15 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:23:15 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:23:15 INFO  stepdefinition.HomePageSteps - Selecting 'Stack' from dropdown after Sign-in
+2025-08-04 16:23:15 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:23:15 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 16:23:15 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 16:23:15 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:23:15 INFO  stepdefinition.HomePageSteps - Selecting 'Array' from dropdown after Sign-in
+2025-08-04 16:23:15 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:23:16 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 16:23:16 INFO  pageobjects.HomePage - Navigated to page with title: Stack
+2025-08-04 16:23:16 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Stack'
+2025-08-04 16:23:16 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Stack'
+2025-08-04 16:23:16 INFO  pageobjects.HomePage - Navigated to page with title: Linked List
+2025-08-04 16:23:16 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Linked List'
+2025-08-04 16:23:16 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Linked List'
+2025-08-04 16:23:16 INFO  pageobjects.HomePage - Navigated to page with title: Array
+2025-08-04 16:23:16 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Array'
+2025-08-04 16:23:16 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Array'
+2025-08-04 16:23:21 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:23:23 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:23:23 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:23:23 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:23:23 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:23:23 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:23:24 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:23:24 INFO  stepdefinition.HomePageSteps - Selecting 'Graph' from dropdown after Sign-in
+2025-08-04 16:23:24 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:23:25 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 16:23:25 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:23:25 INFO  stepdefinition.HomePageSteps - Clicking 'Array' Get Started button after Sign-in
+2025-08-04 16:23:25 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 16:23:25 INFO  pageobjects.HomePage - Navigated to page with title: Graph
+2025-08-04 16:23:25 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Graph'
+2025-08-04 16:23:25 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Graph'
+2025-08-04 16:23:25 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:23:26 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:23:26 INFO  stepdefinition.HomePageSteps - Selecting 'Queue' from dropdown after Sign-in
+2025-08-04 16:23:26 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:23:26 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:23:26 INFO  stepdefinition.HomePageSteps - Clicking 'Stack' Get Started button after Sign-in
+2025-08-04 16:23:26 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 16:23:26 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:23:26 INFO  stepdefinition.HomePageSteps - Selecting 'Tree' from dropdown after Sign-in
+2025-08-04 16:23:26 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 16:23:26 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:23:26 INFO  stepdefinition.HomePageSteps - Clicking 'Data Structures-Introduction' Get Started button after Sign-in
+2025-08-04 16:23:26 INFO  pageobjects.HomePage - User click on Data Structures-Introduction
+2025-08-04 16:23:26 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:23:27 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 16:23:27 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 16:23:27 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:23:27 INFO  pageobjects.HomePage - Navigated to page with title: Array
+2025-08-04 16:23:27 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Array'
+2025-08-04 16:23:27 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Array'
+2025-08-04 16:23:27 INFO  pageobjects.HomePage - Navigated to page with title: Data Structures-Introduction
+2025-08-04 16:23:27 INFO  pageobjects.HomePage - Navigated to page with title: Stack
+2025-08-04 16:23:27 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Data Structures-Introduction'
+2025-08-04 16:23:27 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Data Structures-Introduction'
+2025-08-04 16:23:27 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Stack'
+2025-08-04 16:23:27 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Stack'
+2025-08-04 16:23:27 INFO  pageobjects.HomePage - Navigated to page with title: Queue
+2025-08-04 16:23:27 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Queue'
+2025-08-04 16:23:27 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Queue'
+2025-08-04 16:23:27 INFO  pageobjects.HomePage - Navigated to page with title: Tree
+2025-08-04 16:23:27 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Tree'
+2025-08-04 16:23:27 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Tree'
+2025-08-04 16:23:28 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:23:28 INFO  stepdefinition.HomePageSteps - Clicking 'Graph' Get Started button after Sign-in
+2025-08-04 16:23:28 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 16:23:28 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:23:28 INFO  stepdefinition.HomePageSteps - Clicking 'Tree' Get Started button after Sign-in
+2025-08-04 16:23:28 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 16:23:29 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:23:29 INFO  stepdefinition.HomePageSteps - Clicking 'Queue' Get Started button after Sign-in
+2025-08-04 16:23:29 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 16:23:29 INFO  pageobjects.HomePage - Navigated to page with title: Graph
+2025-08-04 16:23:29 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Graph'
+2025-08-04 16:23:29 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Graph'
+2025-08-04 16:23:29 INFO  pageobjects.HomePage - Navigated to page with title: Tree
+2025-08-04 16:23:29 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Tree'
+2025-08-04 16:23:29 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Tree'
+2025-08-04 16:23:29 INFO  pageobjects.HomePage - Navigated to page with title: Queue
+2025-08-04 16:23:29 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Queue'
+2025-08-04 16:23:29 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Queue'
+2025-08-04 16:23:30 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 16:23:31 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 16:23:31 INFO  stepdefinition.HomePageSteps - Clicking 'Linked List' Get Started button after Sign-in
+2025-08-04 16:23:31 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 17:01:41 WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2025-08-04 17:02:40 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 17:02:40 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:02:40 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:02:40 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:02:40 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 17:02:40 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:02:40 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:02:40 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:02:40 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:02:40 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:02:40 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 17:02:42 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 17:02:42 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 17:02:42 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 17:02:42 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 17:02:43 INFO  stepdefinition.HomePageSteps - Selecting 'Stack' from Data Structures dropdown without Sign-in
+2025-08-04 17:02:43 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 17:02:43 INFO  stepdefinition.HomePageSteps - Selecting 'Linked List' from Data Structures dropdown without Sign-in
+2025-08-04 17:02:43 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 17:02:43 INFO  stepdefinition.HomePageSteps - Selecting 'Array' from Data Structures dropdown without Sign-in
+2025-08-04 17:02:43 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 17:02:43 INFO  stepdefinition.HomePageSteps - Selecting 'Graph' from Data Structures dropdown without Sign-in
+2025-08-04 17:02:43 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 17:02:43 INFO  stepdefinition.HomePageSteps - Selecting 'Tree' from Data Structures dropdown without Sign-in
+2025-08-04 17:02:43 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 17:02:43 INFO  stepdefinition.HomePageSteps - Clicking on Sign-in link without Sign-in
+2025-08-04 17:02:43 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:02:43 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 17:02:43 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 17:02:43 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 17:02:44 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 17:02:44 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 17:02:44 INFO  stepdefinition.HomePageSteps - Clicking on Register link without Sign-in
+2025-08-04 17:02:44 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 17:02:44 INFO  stepdefinition.HomePageSteps - Selecting 'Queue' from Data Structures dropdown without Sign-in
+2025-08-04 17:02:44 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 17:02:44 INFO  stepdefinition.HomePageSteps - Validating Sign-in Page Title. Expected: Login, Actual: null
+2025-08-04 17:02:44 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 17:02:44 INFO  stepdefinition.HomePageSteps - SignInPage opened
+2025-08-04 17:02:44 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 17:02:45 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:02:45 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:02:45 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:02:45 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:02:45 INFO  stepdefinition.HomePageSteps - Validating Register Page Title. Expected: Registration, Actual: null
+2025-08-04 17:02:45 INFO  stepdefinition.HomePageSteps - Navigated to Register Page successfully
+2025-08-04 17:02:45 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:02:45 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:03:34 INFO  stepdefinition.HomePageSteps - Opening browser...
+2025-08-04 17:03:34 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal URL
+2025-08-04 17:03:35 INFO  stepdefinition.HomePageSteps - Validating Get Started Button Text. Expected: Get Started, Actual: Get Started
+2025-08-04 17:03:35 INFO  stepdefinition.HomePageSteps - Button text matches: Get Started
+2025-08-04 17:03:36 INFO  stepdefinition.HomePageSteps - Navigating to DS Algo Portal Page
+2025-08-04 17:03:37 INFO  stepdefinition.HomePageSteps - Clicking on 'Get Started' button
+2025-08-04 17:03:37 INFO  stepdefinition.HomePageSteps - Validating Page Title
+2025-08-04 17:03:37 INFO  stepdefinition.HomePageSteps - Homepage opened
+2025-08-04 17:03:39 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:03:40 INFO  stepdefinition.HomePageSteps - Clicking on Register link without Sign-in
+2025-08-04 17:03:40 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 17:03:40 INFO  stepdefinition.HomePageSteps - Validating Register Page Title. Expected: Registration, Actual: null
+2025-08-04 17:03:40 INFO  stepdefinition.HomePageSteps - Navigated to Register Page successfully
+2025-08-04 17:03:41 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:03:42 INFO  stepdefinition.HomePageSteps - Clicking on Sign-in link without Sign-in
+2025-08-04 17:03:42 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:03:42 INFO  stepdefinition.HomePageSteps - Validating Sign-in Page Title. Expected: Login, Actual: null
+2025-08-04 17:03:42 INFO  stepdefinition.HomePageSteps - SignInPage opened
+2025-08-04 17:03:44 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:03:44 INFO  stepdefinition.HomePageSteps - Selecting 'Array' from Data Structures dropdown without Sign-in
+2025-08-04 17:03:44 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 17:03:44 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 17:03:45 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:03:46 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:03:47 INFO  stepdefinition.HomePageSteps - Selecting 'Linked List' from Data Structures dropdown without Sign-in
+2025-08-04 17:03:47 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 17:03:47 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 17:03:47 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:03:49 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:03:49 INFO  stepdefinition.HomePageSteps - Selecting 'Stack' from Data Structures dropdown without Sign-in
+2025-08-04 17:03:49 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 17:03:49 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 17:03:50 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:03:51 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:03:52 INFO  stepdefinition.HomePageSteps - Selecting 'Queue' from Data Structures dropdown without Sign-in
+2025-08-04 17:03:52 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 17:03:52 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 17:03:52 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:03:53 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:03:54 INFO  stepdefinition.HomePageSteps - Selecting 'Tree' from Data Structures dropdown without Sign-in
+2025-08-04 17:03:54 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 17:03:54 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 17:03:55 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:03:56 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:03:57 INFO  stepdefinition.HomePageSteps - Selecting 'Graph' from Data Structures dropdown without Sign-in
+2025-08-04 17:03:57 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 17:03:57 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 17:03:57 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:03:59 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:03:59 INFO  stepdefinition.HomePageSteps - Clicking 'Data Structures-Introduction' Get Started button without Sign-in
+2025-08-04 17:03:59 INFO  pageobjects.HomePage - User click on Data Structures-Introduction
+2025-08-04 17:04:00 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:04:01 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:04:02 INFO  stepdefinition.HomePageSteps - Clicking 'Array' Get Started button without Sign-in
+2025-08-04 17:04:02 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 17:04:02 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:04:04 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:04:04 INFO  stepdefinition.HomePageSteps - Clicking 'Linked List' Get Started button without Sign-in
+2025-08-04 17:04:04 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 17:04:05 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:04:06 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:04:07 INFO  stepdefinition.HomePageSteps - Clicking 'Stack' Get Started button without Sign-in
+2025-08-04 17:04:07 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 17:04:07 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:04:09 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:04:09 INFO  stepdefinition.HomePageSteps - Clicking 'Queue' Get Started button without Sign-in
+2025-08-04 17:04:09 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 17:04:10 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:04:11 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:04:12 INFO  stepdefinition.HomePageSteps - Clicking 'Tree' Get Started button without Sign-in
+2025-08-04 17:04:12 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 17:04:12 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:04:14 INFO  stepdefinition.HomePageSteps - Navigating to Home Page
+2025-08-04 17:04:14 INFO  stepdefinition.HomePageSteps - Clicking 'Graph' Get Started button without Sign-in
+2025-08-04 17:04:14 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 17:04:15 INFO  stepdefinition.HomePageSteps - Validating Warning Message. Expected: 'You are not logged in', Actual: 'You are not logged in'
+2025-08-04 17:04:17 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:04:17 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 17:04:17 INFO  stepdefinition.HomePageSteps - Selecting 'Array' from dropdown after Sign-in
+2025-08-04 17:04:17 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 17:04:18 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 17:04:18 INFO  pageobjects.HomePage - Navigated to page with title: Array
+2025-08-04 17:04:18 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Array'
+2025-08-04 17:04:18 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Array'
+2025-08-04 17:04:21 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:04:21 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 17:04:21 INFO  stepdefinition.HomePageSteps - Selecting 'Linked List' from dropdown after Sign-in
+2025-08-04 17:04:21 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 17:04:22 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 17:04:22 INFO  pageobjects.HomePage - Navigated to page with title: Linked List
+2025-08-04 17:04:22 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Linked List'
+2025-08-04 17:04:22 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Linked List'
+2025-08-04 17:04:24 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:04:24 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 17:04:24 INFO  stepdefinition.HomePageSteps - Selecting 'Stack' from dropdown after Sign-in
+2025-08-04 17:04:24 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 17:04:25 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 17:04:25 INFO  pageobjects.HomePage - Navigated to page with title: Stack
+2025-08-04 17:04:25 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Stack'
+2025-08-04 17:04:25 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Stack'
+2025-08-04 17:04:28 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:04:28 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 17:04:28 INFO  stepdefinition.HomePageSteps - Selecting 'Queue' from dropdown after Sign-in
+2025-08-04 17:04:28 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 17:04:29 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 17:04:29 INFO  pageobjects.HomePage - Navigated to page with title: Queue
+2025-08-04 17:04:29 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Queue'
+2025-08-04 17:04:29 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Queue'
+2025-08-04 17:04:31 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:04:31 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 17:04:31 INFO  stepdefinition.HomePageSteps - Selecting 'Tree' from dropdown after Sign-in
+2025-08-04 17:04:31 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 17:04:32 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 17:04:32 INFO  pageobjects.HomePage - Navigated to page with title: Tree
+2025-08-04 17:04:32 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Tree'
+2025-08-04 17:04:32 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Tree'
+2025-08-04 17:04:34 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:04:35 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 17:04:35 INFO  stepdefinition.HomePageSteps - Selecting 'Graph' from dropdown after Sign-in
+2025-08-04 17:04:35 INFO  pageobjects.HomePage - Clicking on DataStructureDropDown
+2025-08-04 17:04:35 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 17:04:36 INFO  pageobjects.HomePage - Navigated to page with title: Graph
+2025-08-04 17:04:36 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Graph'
+2025-08-04 17:04:36 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Graph'
+2025-08-04 17:04:38 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:04:38 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 17:04:38 INFO  stepdefinition.HomePageSteps - Clicking 'Data Structures-Introduction' Get Started button after Sign-in
+2025-08-04 17:04:38 INFO  pageobjects.HomePage - User click on Data Structures-Introduction
+2025-08-04 17:04:39 INFO  pageobjects.HomePage - Navigated to page with title: Data Structures-Introduction
+2025-08-04 17:04:39 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Data Structures-Introduction'
+2025-08-04 17:04:39 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Data Structures-Introduction'
+2025-08-04 17:04:41 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:04:42 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 17:04:42 INFO  stepdefinition.HomePageSteps - Clicking 'Array' Get Started button after Sign-in
+2025-08-04 17:04:42 INFO  pageobjects.HomePage - User click on Array
+2025-08-04 17:04:43 INFO  pageobjects.HomePage - Navigated to page with title: Array
+2025-08-04 17:04:43 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Array'
+2025-08-04 17:04:43 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Array'
+2025-08-04 17:04:45 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:04:46 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 17:04:46 INFO  stepdefinition.HomePageSteps - Clicking 'Linked List' Get Started button after Sign-in
+2025-08-04 17:04:46 INFO  pageobjects.HomePage - User click on Linked List
+2025-08-04 17:04:46 INFO  pageobjects.HomePage - Navigated to page with title: Linked List
+2025-08-04 17:04:46 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Linked List'
+2025-08-04 17:04:46 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Linked List'
+2025-08-04 17:04:48 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:04:49 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 17:04:49 INFO  stepdefinition.HomePageSteps - Clicking 'Stack' Get Started button after Sign-in
+2025-08-04 17:04:49 INFO  pageobjects.HomePage - User click on Stack
+2025-08-04 17:04:50 INFO  pageobjects.HomePage - Navigated to page with title: Stack
+2025-08-04 17:04:50 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Stack'
+2025-08-04 17:04:50 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Stack'
+2025-08-04 17:04:52 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:04:52 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 17:04:52 INFO  stepdefinition.HomePageSteps - Clicking 'Queue' Get Started button after Sign-in
+2025-08-04 17:04:52 INFO  pageobjects.HomePage - User click on Queue
+2025-08-04 17:04:53 INFO  pageobjects.HomePage - Navigated to page with title: Queue
+2025-08-04 17:04:53 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Queue'
+2025-08-04 17:04:53 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Queue'
+2025-08-04 17:04:55 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:04:56 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 17:04:56 INFO  stepdefinition.HomePageSteps - Clicking 'Tree' Get Started button after Sign-in
+2025-08-04 17:04:56 INFO  pageobjects.HomePage - User click on Tree
+2025-08-04 17:04:57 INFO  pageobjects.HomePage - Navigated to page with title: Tree
+2025-08-04 17:04:57 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Tree'
+2025-08-04 17:04:57 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Tree'
+2025-08-04 17:04:59 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:04:59 INFO  stepdefinition.HomePageSteps - user sign-in
+2025-08-04 17:04:59 INFO  stepdefinition.HomePageSteps - Clicking 'Graph' Get Started button after Sign-in
+2025-08-04 17:04:59 INFO  pageobjects.HomePage - User click on Graph
+2025-08-04 17:05:00 INFO  pageobjects.HomePage - Navigated to page with title: Graph
+2025-08-04 17:05:00 INFO  stepdefinition.HomePageSteps - Validating page navigation after dropdown selection. Expected Title Part: 'Graph'
+2025-08-04 17:05:00 INFO  stepdefinition.HomePageSteps - Navigated successfully to introduction page for 'Graph'
+2025-08-04 17:05:02 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:05:06 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:05:10 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:05:15 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:05:20 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:05:25 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:05:29 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:05:33 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:05:37 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:05:42 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:05:46 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:05:51 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:05:55 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:05:59 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:06:03 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:06:08 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:06:12 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:06:17 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:06:22 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:06:25 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:06:30 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:06:34 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:06:39 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:06:43 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:06:48 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:06:52 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:06:56 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:07:00 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:07:05 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:07:09 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:07:14 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:07:18 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:07:22 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:07:27 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:07:31 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:07:36 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:07:40 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:07:44 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:07:48 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:07:53 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:07:57 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:08:02 INFO  pageobjects.HomePage - Clicking on Sign-in Link
+2025-08-04 17:08:06 INFO  stepdefinition.RegisterPageSteps - Navigating to the Home Page
+2025-08-04 17:08:06 INFO  stepdefinition.RegisterPageSteps - Clicking on the Register link
+2025-08-04 17:08:06 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 17:08:07 INFO  stepdefinition.RegisterPageSteps - Asserting actual error: 'Please fill out this field.' against expected: 'Please fill out this field.'
+2025-08-04 17:08:08 INFO  stepdefinition.RegisterPageSteps - Navigating to the Home Page
+2025-08-04 17:08:09 INFO  stepdefinition.RegisterPageSteps - Clicking on the Register link
+2025-08-04 17:08:09 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 17:08:09 INFO  stepdefinition.RegisterPageSteps - Asserting actual error: 'Please fill out this field.' against expected: 'Please fill out this field.'
+2025-08-04 17:08:11 INFO  stepdefinition.RegisterPageSteps - Navigating to the Home Page
+2025-08-04 17:08:11 INFO  stepdefinition.RegisterPageSteps - Clicking on the Register link
+2025-08-04 17:08:11 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 17:08:12 INFO  stepdefinition.RegisterPageSteps - Asserting actual error: 'Please fill out this field.' against expected: 'Please fill out this field.'
+2025-08-04 17:08:13 INFO  stepdefinition.RegisterPageSteps - Navigating to the Home Page
+2025-08-04 17:08:14 INFO  stepdefinition.RegisterPageSteps - Clicking on the Register link
+2025-08-04 17:08:14 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 17:08:14 INFO  stepdefinition.RegisterPageSteps - Asserting actual error: 'Please fill out this field.' against expected: 'Please fill out this field.'
+2025-08-04 17:08:16 INFO  stepdefinition.RegisterPageSteps - Navigating to the Home Page
+2025-08-04 17:08:17 INFO  stepdefinition.RegisterPageSteps - Clicking on the Register link
+2025-08-04 17:08:17 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 17:08:18 INFO  stepdefinition.RegisterPageSteps - Asserting actual error: 'password_mismatch:The two password fields didn’t match.' against expected: 'password_mismatch:The two password fields didn’t match.'
+2025-08-04 17:08:19 INFO  stepdefinition.RegisterPageSteps - Navigating to the Home Page
+2025-08-04 17:08:20 INFO  stepdefinition.RegisterPageSteps - Clicking on the Register link
+2025-08-04 17:08:20 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 17:08:20 INFO  stepdefinition.RegisterPageSteps - Asserting actual error: 'password_mismatch:The two password fields didn’t match.' against expected: 'password_mismatch:The two password fields didn’t match.'
+2025-08-04 17:08:22 INFO  stepdefinition.RegisterPageSteps - Navigating to the Home Page
+2025-08-04 17:08:22 INFO  stepdefinition.RegisterPageSteps - Clicking on the Register link
+2025-08-04 17:08:22 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 17:08:23 INFO  stepdefinition.RegisterPageSteps - Asserting actual error: 'password_mismatch:The two password fields didn’t match.' against expected: 'password_mismatch:The two password fields didn’t match.'
+2025-08-04 17:08:24 INFO  stepdefinition.RegisterPageSteps - Navigating to the Home Page
+2025-08-04 17:08:25 INFO  stepdefinition.RegisterPageSteps - Clicking on the Register link
+2025-08-04 17:08:25 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 17:08:26 INFO  stepdefinition.RegisterPageSteps - Asserting actual error: 'password_mismatch:The two password fields didn’t match.' against expected: 'password_mismatch:The two password fields didn’t match.'
+2025-08-04 17:08:27 INFO  stepdefinition.RegisterPageSteps - Navigating to the Home Page
+2025-08-04 17:08:28 INFO  stepdefinition.RegisterPageSteps - Clicking on the Register link
+2025-08-04 17:08:28 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 17:08:28 INFO  stepdefinition.RegisterPageSteps - Asserting actual error: 'password_mismatch:The two password fields didn’t match.' against expected: 'password_mismatch:The two password fields didn’t match.'
+2025-08-04 17:08:30 INFO  stepdefinition.RegisterPageSteps - Navigating to the Home Page
+2025-08-04 17:08:30 INFO  stepdefinition.RegisterPageSteps - Clicking on the Register link
+2025-08-04 17:08:30 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 17:08:31 INFO  stepdefinition.RegisterPageSteps - Asserting actual error: 'password_mismatch:The two password fields didn’t match.' against expected: 'password_mismatch:The two password fields didn’t match.'
+2025-08-04 17:08:32 INFO  stepdefinition.RegisterPageSteps - Navigating to the Home Page
+2025-08-04 17:08:33 INFO  stepdefinition.RegisterPageSteps - Clicking on the Register link
+2025-08-04 17:08:33 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 17:08:34 INFO  stepdefinition.RegisterPageSteps - Asserting actual error: 'password_mismatch:The two password fields didn’t match.' against expected: 'password_mismatch:The two password fields didn’t match.'
+2025-08-04 17:08:35 INFO  stepdefinition.RegisterPageSteps - Navigating to the Home Page
+2025-08-04 17:08:36 INFO  stepdefinition.RegisterPageSteps - Clicking on the Register link
+2025-08-04 17:08:36 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 17:08:36 INFO  stepdefinition.RegisterPageSteps - Asserting actual error: 'password_mismatch:The two password fields didn’t match.' against expected: 'password_mismatch:The two password fields didn’t match.'
+2025-08-04 17:08:38 INFO  stepdefinition.RegisterPageSteps - Navigating to the Home Page
+2025-08-04 17:08:38 INFO  stepdefinition.RegisterPageSteps - Clicking on the Register link
+2025-08-04 17:08:38 INFO  pageobjects.HomePage - Clicking on Register Link
+2025-08-04 17:08:39 INFO  stepdefinition.RegisterPageSteps - Asserting actual error: 'password_mismatch:The two password fields didn’t match.' against expected: 'password_mismatch:The two password fields didn’t match.'
