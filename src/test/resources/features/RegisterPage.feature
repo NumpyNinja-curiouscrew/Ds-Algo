@@ -2,7 +2,6 @@
 
 Feature: User Registration Validation
 
-
   Background:
     Given the user is on the user registration page
  
